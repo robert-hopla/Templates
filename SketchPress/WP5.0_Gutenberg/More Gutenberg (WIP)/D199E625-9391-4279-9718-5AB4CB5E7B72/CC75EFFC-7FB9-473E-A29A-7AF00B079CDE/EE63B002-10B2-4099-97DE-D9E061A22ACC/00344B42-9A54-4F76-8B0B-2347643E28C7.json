@@ -1,0 +1,73 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "00344B42-9A54-4F76-8B0B-2347643E28C7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6B3F04FD-70E1-47C8-914E-20C3C33F017E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0B6F89CA-860C-4884-9EFE-07EA742B43E4",
+    "height": 36,
+    "width": 36.00000000000001,
+    "x": 31,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Bold",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "A3FB25A9-95E9-4B6C-9491-4B3BA691F348/D8BCDDBC-9C25-47E8-BA48-269EFECC0602_symbolID",
+      "value": "1AA9988C-9EE0-4D48-A8BE-DDFE757B9415"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "168AD91C-EBB1-46C2-ADD3-B9C650C9BE92_symbolID",
+      "value": "C9DFCEFC-D3F0-4B36-9A62-9DE94FED2818"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "900B228A-7F17-4A03-AED4-A0EC294D8DFF/01C06CA2-601C-44FA-8E9D-2358ACF4EFD4_symbolID",
+      "value": "B551BF22-55A2-4749-B91C-43E9F1C76B63"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "1DC2D3C2-D9E7-4385-AA43-653EA94CE586",
+      "opacity": 0.4
+    },
+    "do_objectID": "231E629F-C2B4-44DE-B73C-0C2AC3D74E48",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FB9C4BC2-B81A-4468-B8A4-F9CE64ECB8E2",
+  "verticalSpacing": 0
+}

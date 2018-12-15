@@ -1,0 +1,76 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EBD70E61-E1E6-4F9A-BEF8-CC4630988D8F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F1B7F83-4DE6-45A4-8BA4-429668694FED",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CDFB611E-3D29-4F95-9551-CE016066E0A1",
+    "height": 17.0760257384764,
+    "width": 13.19511079791358,
+    "x": 4.402444601043271,
+    "y": 1.961987130761372
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5129BE8B-CAAD-468B-9F66-3F41CF42FF9F"
+    },
+    {
+      "class": "shapePath",
+      "id": "CDCABDFA-44CB-458A-9CDE-647E1CE5558A"
+    }
+  ],
+  "name": "Pixel Finger",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB093B24-3E98-44EA-A4DB-82CB377E7AF1",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

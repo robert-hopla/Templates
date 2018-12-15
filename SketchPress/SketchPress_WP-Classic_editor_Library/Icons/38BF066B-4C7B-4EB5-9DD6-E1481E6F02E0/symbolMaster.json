@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "3F1BBA57-BE93-45B0-87EC-989AF274CB9A",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 778,
+  "clippingMaskMode": 0,
+  "do_objectID": "38BF066B-4C7B-4EB5-9DD6-E1481E6F02E0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AF2EB3A3-DA8E-4AD0-B81B-86DA7F007860",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B2026EF7-4CCB-4F99-A4C8-A90517C7B4DB",
+    "height": 24,
+    "width": 24,
+    "x": -109,
+    "y": 1416
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3D0694C7-AA79-4982-A30A-957BC4B88BD6",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "62AF75A6-CEE0-4DAB-BDFF-15B2ED0C0679"
+    }
+  ],
+  "name": "dashicon/misc/dismiss_alt",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "60309CEE-BC4F-4FA6-A36E-7A78125B251B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A6462C2F-1AD3-4284-8D73-75D18BE06913",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "431F868B-EFAD-46C0-A3C5-11DAC4DA9E7F",
+    "guides": [
+    ]
+  }
+}

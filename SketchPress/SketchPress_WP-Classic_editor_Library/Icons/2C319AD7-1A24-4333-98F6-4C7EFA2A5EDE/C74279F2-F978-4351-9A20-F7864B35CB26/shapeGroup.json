@@ -1,0 +1,80 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C74279F2-F978-4351-9A20-F7864B35CB26",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5D9F9EF4-6B8E-48D3-8116-10A43B209F10",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D2B38672-1CF3-4308-B8E7-E33044FD6141",
+    "height": 15.75,
+    "width": 16,
+    "x": 2.5,
+    "y": 2.625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5713687D-577E-48AB-A094-D03F12538673"
+    },
+    {
+      "class": "shapePath",
+      "id": "A70BB8DD-11A1-4606-950C-0DBD153FA494"
+    },
+    {
+      "class": "shapePath",
+      "id": "AFED2569-F9C5-42D5-9481-A5C9A7BB1981"
+    }
+  ],
+  "name": "RSS",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "85E28CAE-0BC7-4C03-8EE7-43C4D4A81589",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5333333333333333,
+          "green": 0.5333333333333333,
+          "red": 0.5333333333333333
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

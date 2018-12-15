@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EB5CC8E8-12C3-4ED2-B81B-4F1A860DCE35",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "130E5088-C402-4907-B956-ED96E5717D95",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E784A843-13DF-433E-AD28-6AAA3030A964",
+    "height": 55,
+    "width": 1280,
+    "x": 159,
+    "y": 28
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gutenberg/Core/Publish-Title",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "311456FD-9D48-4BDD-A266-9A1857DC6D1D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CCDD94C-819E-467F-9936-F25D7B79ECF1",
+  "verticalSpacing": 0
+}

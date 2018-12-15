@@ -1,0 +1,94 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BA3356F0-F0C5-4058-AB98-E4BE7B1D430E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7CF81C77-A804-4E5A-BB69-FB78B309B7C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F3F20EF9-521E-4731-A464-D9BE0A3F33AC",
+    "height": 199,
+    "width": 160,
+    "x": 0.359375,
+    "y": 36
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "core/shell/admin-nav/sub-menu",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "390DA50B-14D2-44ED-80EE-AFA7E34B094E",
+      "overrideName": "5F756070-DC41-44AE-8A3D-3AEE63FA8AF6_stringValue",
+      "value": "Discussion"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E0C81FB9-FB14-4B17-8000-BA21355ACF68",
+      "overrideName": "64A41871-CD8F-4715-A4A8-27A2FFE91BC4_stringValue",
+      "value": "Writing"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0776A698-AF9F-4939-A8E1-6F502C558E58",
+      "overrideName": "673A95FA-067A-4F72-9AAA-57CD507DC504_stringValue",
+      "value": "Permalinks"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "744821CD-A94B-4AAC-948F-09FE5695DFC7",
+      "overrideName": "967BDCA9-174B-485E-BF50-DC084488D032_stringValue",
+      "value": "General"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "34906BEB-62FD-4150-A0D8-799C09B8EA94",
+      "overrideName": "23CB910D-7666-4A2E-B9AF-1EECD22D7A29_stringValue",
+      "value": "Available Tools"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B55086F2-7C2A-4BE6-9981-9F7FB3F7F2BD",
+      "overrideName": "B7D85FA4-C801-4392-A4D4-76828E5540D1_stringValue",
+      "value": "Media"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "610D8145-A5B6-460B-8BF7-F6833B46AC49",
+      "overrideName": "C37BECA5-F72D-4D0E-B652-10E4A015866E_stringValue",
+      "value": "Reading"
+    }
+  ],
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2D128A38-8A6E-4983-ABC5-063D556A9FF7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "29AE13C6-7235-4B32-A022-668CAE1C6D71",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,113 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "633B5BE5-AD45-4C90-AF12-44BBE23A38C8",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D199E625-9391-4279-9718-5AB4CB5E7B72",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "96B84964-0D8E-4F7C-BDB3-0EF6B1B22900",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0BA7EC61-B68D-4D75-A99D-312FDFC4151E",
+    "height": 1050,
+    "width": 2200,
+    "x": -347,
+    "y": -1892
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E423A6F4-A7E0-4B2B-AC97-018F5AD450C1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "A6F0C5D5-DD80-4A4B-8140-A4AE42C3E683"
+    },
+    {
+      "class": "group",
+      "id": "CC75EFFC-7FB9-473E-A29A-7AF00B079CDE"
+    },
+    {
+      "class": "group",
+      "id": "9F2C2F2B-E120-4388-9601-05678A8A95DC"
+    },
+    {
+      "class": "group",
+      "id": "2FB3D64D-F5A5-43BA-9F6B-FC1DBF2109D0"
+    },
+    {
+      "class": "group",
+      "id": "E720A306-862B-4173-9FAA-AC7217D749B8"
+    },
+    {
+      "class": "group",
+      "id": "3C3F6085-A706-4AC1-8CD7-1D94FD794578"
+    },
+    {
+      "class": "text",
+      "id": "27408740-F8D2-4E01-B404-DF2CC655D9EA"
+    }
+  ],
+  "name": "Buttons & Focus States",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6203E289-004F-4381-8A41-23E6B241ADD6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3C9EA775-CDD2-4122-AE81-B771112F6D03",
+    "guides": [
+    ]
+  }
+}

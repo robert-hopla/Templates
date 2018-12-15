@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "22A12272-66AF-4419-8833-DB100A72C31E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 595,
+    "width": 543,
+    "x": 679,
+    "y": 61
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "545EC405-51DD-4BCB-8571-47FE07CB8010"
+    },
+    {
+      "class": "bitmap",
+      "id": "7DA2EB27-8F7A-4E98-BE36-2D5B98A61256"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E5646C44-3DD3-49B7-98EE-FB2366E801C0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A43709AD-5E2C-41F9-9731-007ED7904758"
+    }
+  ],
+  "name": "Right Area",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

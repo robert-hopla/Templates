@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C17AEE3A-3400-41DB-9726-FA164F8F85BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "47142901-2E21-4B14-8E4D-ADE30F58B814",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C0F65EE5-F358-4D67-8172-3588DA3BF67F",
+    "height": 20,
+    "width": 20,
+    "x": 0,
+    "y": 1.77635683940025e-15
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/admin-collapse",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 45,
+  "resizingType": 3,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DB702896-CC0B-4697-B14D-FF188714CDFD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "81F7F01A-FDB3-4D3B-A527-F217216FF2C4",
+  "verticalSpacing": 0
+}

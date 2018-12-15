@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4D0EC4BD-7B36-4D99-870B-AB6700BF23CC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8E18454F-BD0A-45CD-B70B-423A7F8825E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F4683FE5-916C-411A-B07F-2535E8E27B74",
+    "height": 17,
+    "width": 17,
+    "x": 284,
+    "y": 0.756738281249909
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "39FD4622-3937-4C36-B333-DAE8B66A0B66"
+    }
+  ],
+  "name": "redo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B04590B2-D316-4FBF-A666-6BB8F8FC6975",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

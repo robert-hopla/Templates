@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5E193A15-DEFC-4C96-AB0B-2E57D6B98612",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1025,
+  "clippingMaskMode": 0,
+  "do_objectID": "FDEE0A38-80B9-4615-87C2-C697BB4C75E1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F31A6CD5-1C96-4465-B3B6-04171C3979F2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E45571A0-64F0-48D5-8778-97F32B0BA063",
+    "height": 48,
+    "width": 760,
+    "x": -380,
+    "y": 24
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "38B24499-4215-4F19-B888-37072C44D69F",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "77839B9B-C1C3-4287-931C-64EC5C133318"
+    }
+  ],
+  "name": "Core/Notice/Warning",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BCAE76E9-EAA0-4BF3-BDD2-598A9831C4F7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "45D60852-8C46-471D-B79A-AF5A138A0149",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "227C08FD-EEE0-4716-9086-1AEBDBBF7D8A",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C9EA7EC0-B0B6-4BBE-A5E0-B58803D386F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9EB0796F-B8D2-4D30-A90A-867D647498E9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2EAAF472-17F5-4895-89DD-BCA2A55B0A8E",
+    "height": 10,
+    "width": 7,
+    "x": 0,
+    "y": 0.9719801024823802
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "polygon",
+      "id": "EF3EB2E8-0610-4D6D-B88E-C62B514AD9B0"
+    }
+  ],
+  "name": "Top Side Left",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7C4D8A03-5063-4ED7-83EE-D4B7D1BCF774",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

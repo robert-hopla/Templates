@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DA1ED29A-B987-4AE4-A93B-3C1DE7BF490A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C10BA79-E4C2-460F-A488-1954C2D21423",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8562C7B6-B4EC-4D32-BF0F-419718C909DB",
+    "height": 46,
+    "width": 280,
+    "x": 0,
+    "y": 482.111328125
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gutenberg/Side Bar Settings/Expand Box Copy 3",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E40C4D3B-0AAA-4617-A758-BF563B7B8DCD",
+      "overrideName": "49DC16BC-F61C-4FF2-B058-C904D889D2C4_stringValue",
+      "value": "Excerpt"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "ADC2EB43-F152-47EC-80B0-95F5DF080125",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EE21ED48-548B-4F29-A804-514E6C6A0478",
+  "verticalSpacing": 0
+}

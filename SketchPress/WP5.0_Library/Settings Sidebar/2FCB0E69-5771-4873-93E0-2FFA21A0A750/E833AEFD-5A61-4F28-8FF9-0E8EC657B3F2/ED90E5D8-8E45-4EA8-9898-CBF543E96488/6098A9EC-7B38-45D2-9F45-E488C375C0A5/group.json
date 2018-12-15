@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6098A9EC-7B38-45D2-9F45-E488C375C0A5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 19,
+    "width": 161,
+    "x": 9,
+    "y": 5
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "32B495E2-4589-4F59-8B40-1865F8AF8ADD"
+    },
+    {
+      "class": "text",
+      "id": "534A085E-9129-4520-870F-1C73B9235510"
+    },
+    {
+      "class": "text",
+      "id": "A315BD3F-DBF1-4777-9D29-80EC1656983E"
+    },
+    {
+      "class": "text",
+      "id": "20536CBF-314B-4654-890E-05A5E0FB88CF"
+    }
+  ],
+  "name": "Percentage",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,128 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C951EDEC-36E3-4223-B51F-B2ED4E6ED767",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 900,
+    "width": 317,
+    "x": 1851,
+    "y": 6873
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5343FB07-35DE-4726-BDFE-68BF2DB68F8A"
+    },
+    {
+      "class": "shapePath",
+      "id": "7C184A77-2BB3-447C-B990-00077CDC5567"
+    },
+    {
+      "class": "group",
+      "id": "33969A40-51E5-4FE1-BE64-18CC877CA28C"
+    },
+    {
+      "class": "shapePath",
+      "id": "1356061E-C579-4024-A4E7-0FEF27AD95B4"
+    },
+    {
+      "class": "group",
+      "id": "2AB47F11-771A-4087-AE93-308898F06964"
+    },
+    {
+      "class": "group",
+      "id": "EFCD0D3B-63AF-4FF3-8626-182F89541D4D"
+    },
+    {
+      "class": "group",
+      "id": "493B323E-FFCB-48A4-906A-A83B9CA470FD"
+    },
+    {
+      "class": "group",
+      "id": "4070BA1F-D76F-4685-9BDD-37E288306FB4"
+    },
+    {
+      "class": "group",
+      "id": "C79DB4C0-4B13-41EE-84CF-46811BD04670"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "84BABF08-8BD7-4F6C-9BC9-CDF8C7B045C6"
+    }
+  ],
+  "name": "Customizer: Header Image",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

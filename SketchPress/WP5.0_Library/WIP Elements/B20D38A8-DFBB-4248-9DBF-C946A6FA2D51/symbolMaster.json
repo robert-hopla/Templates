@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F19227ED-1C7B-49C6-987E-E158F9BF8E8C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 430,
+  "clippingMaskMode": 0,
+  "do_objectID": "B20D38A8-DFBB-4248-9DBF-C946A6FA2D51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B99AC541-B87A-4015-815B-D8A65D1E66EB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4FCE6819-F44B-432C-9E04-3FA3408E504D",
+    "height": 33,
+    "width": 82,
+    "x": 1895,
+    "y": -187
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "6CE5F9AD-23C9-41EA-801D-2B7151041C72",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "39064C50-22BF-4246-BAA4-28C99367AF74"
+    },
+    {
+      "class": "text",
+      "id": "C5D244C4-B62D-4C28-8858-91C9DF0CA978"
+    }
+  ],
+  "name": "Gutenberg/Buttons/Main",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "58F6A8BC-082A-455E-AB00-A88B1FCA626C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F33B1879-9EF7-4704-9B59-29C9D916916E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "64C63C1D-CAD9-408D-8377-762E7FD4627C",
+    "guides": [
+    ]
+  }
+}

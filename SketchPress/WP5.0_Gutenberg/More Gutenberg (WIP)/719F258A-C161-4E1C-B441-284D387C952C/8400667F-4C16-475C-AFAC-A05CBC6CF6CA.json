@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8400667F-4C16-475C-AFAC-A05CBC6CF6CA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A30CD055-FD2A-474B-88F1-4262A9EFD69C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "61206965-5E7E-4DDC-ADB9-E2210508C9ED",
+    "height": 267,
+    "width": 680,
+    "x": 314.267578125,
+    "y": 331
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gutenberg/Core/Media-Upload",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "86664BAB-20D8-4F4B-928D-B57FF2DD3389",
+      "overrideName": "69948435-32A8-450F-A3F4-F41909ECFA0D_stringValue",
+      "value": "Cover Image"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3C024113-0ABB-480C-A7AC-7728625FF9DC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "92B3AEB4-D920-444A-A2D1-E9778F527724",
+  "verticalSpacing": 0
+}

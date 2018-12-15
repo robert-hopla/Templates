@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0F622AE2-A449-4043-A577-93448879AE9F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 68,
+    "width": 169,
+    "x": 151,
+    "y": 89
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "60CD801D-B005-43DA-BA86-8EA740236185"
+    },
+    {
+      "class": "shapePath",
+      "id": "D38D5FD2-73FB-4C97-A59F-55A6F0E7E26C"
+    },
+    {
+      "class": "text",
+      "id": "CBCF9449-91DA-4B37-89AD-8D1DAF4F5EB2"
+    },
+    {
+      "class": "text",
+      "id": "E3CB1D09-FFBA-433C-A015-076A9365360E"
+    }
+  ],
+  "name": "Add New Hover",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

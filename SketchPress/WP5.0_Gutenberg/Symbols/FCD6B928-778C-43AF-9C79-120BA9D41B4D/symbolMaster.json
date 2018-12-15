@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CF6B090D-AD8F-42F6-9A7A-5F18451B3DA2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 207,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCD6B928-778C-43AF-9C79-120BA9D41B4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "817301C1-DBD9-4FD6-BF11-5C4CE48BE087",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6A3B952C-D4E2-46F1-956D-320032A966BA",
+    "height": 38,
+    "width": 38,
+    "x": 13192,
+    "y": -1272
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "74AF1778-7485-4024-916A-50FCA875638B",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "45EFF816-91D5-483D-AAE3-CDEC4AEEE06E"
+    }
+  ],
+  "name": "Cursor / Hand",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FFA01D9F-A814-4BC0-B075-28ADDC9AA1C6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3E61C0AF-BE2B-45C8-A7EB-A8339148DD2D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "36DD8CF7-C911-40CD-B25E-C901E98FC301",
+    "guides": [
+    ]
+  }
+}

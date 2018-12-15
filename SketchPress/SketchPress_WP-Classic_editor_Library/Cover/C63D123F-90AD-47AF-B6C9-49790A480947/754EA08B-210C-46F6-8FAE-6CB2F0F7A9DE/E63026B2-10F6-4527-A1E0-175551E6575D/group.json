@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E63026B2-10F6-4527-A1E0-175551E6575D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2EC07753-57BB-4396-8487-31FD30079DD7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AFF77A5E-DBAC-49E0-B8BA-CE70A3F3A136",
+    "height": 19,
+    "width": 20,
+    "x": 6.479867349882512,
+    "y": 10.36778775981204
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "polygon",
+      "id": "64F91D21-AD0E-470B-BF1D-90866104569E"
+    }
+  ],
+  "name": "Bottom Mid",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "34E5DA9B-8A2E-4964-8A15-8A5EFF79EF3F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

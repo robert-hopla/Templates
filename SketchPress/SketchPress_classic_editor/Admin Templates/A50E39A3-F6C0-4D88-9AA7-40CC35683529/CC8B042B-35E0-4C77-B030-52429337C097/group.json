@@ -1,0 +1,102 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "CC8B042B-35E0-4C77-B030-52429337C097",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 181,
+    "width": 1073,
+    "x": 184,
+    "y": 178
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "A42DD2E2-E484-4CB0-A78E-71AA3B670D09"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "13F3E4C0-C94C-4421-9FFD-7B484BAAAF24"
+    },
+    {
+      "class": "rectangle",
+      "id": "4DAC78F0-A9FA-4B92-9604-8EC82BCD246C"
+    },
+    {
+      "class": "rectangle",
+      "id": "6E8BE9B2-3288-45C3-9EC0-D29F12241052"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9825192D-7CCA-4B59-BF9E-4A5638F0D780"
+    },
+    {
+      "class": "text",
+      "id": "D088DA75-ED93-4DC5-82E3-050C7F108BC0"
+    },
+    {
+      "class": "text",
+      "id": "78C663C4-2A19-491C-99E6-324C60B6DC3C"
+    },
+    {
+      "class": "text",
+      "id": "631D036A-23D2-47F6-A544-DA67D079BB97"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "76DE6D9F-B784-47E6-A35F-539AA5577B6D"
+    },
+    {
+      "class": "text",
+      "id": "CE9070D3-FBA4-4CE5-87D8-01F8F5FE41EA"
+    },
+    {
+      "class": "group",
+      "id": "4CD51854-592C-4C4B-BCD3-A36A9E09A8FB"
+    },
+    {
+      "class": "group",
+      "id": "14ECDD25-921B-478B-986F-31AD40057F85"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1A56C093-9077-4C6F-96D1-F3EDCA77C5E5"
+    },
+    {
+      "class": "group",
+      "id": "39A0D844-4E8A-4AF3-A74C-16CBE629E2D0"
+    }
+  ],
+  "name": "Table",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

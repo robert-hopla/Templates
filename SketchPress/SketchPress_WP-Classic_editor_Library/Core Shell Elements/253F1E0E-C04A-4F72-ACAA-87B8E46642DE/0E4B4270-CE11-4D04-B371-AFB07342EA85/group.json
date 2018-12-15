@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0E4B4270-CE11-4D04-B371-AFB07342EA85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F98AB06B-10F9-4816-8F2A-D6B89A14F0DA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD9B746E-2A6C-4063-A185-AF3C12828895",
+    "height": 19,
+    "width": 19,
+    "x": 48,
+    "y": 17
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "F87C3695-D952-41F8-8C31-CD656C561835"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A3E94F4-6FA2-410D-91DC-01E85B66EA57"
+    }
+  ],
+  "name": "Grid View Icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "20B0F097-BF21-4E6C-BA31-3B945C649EB5",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

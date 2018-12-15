@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "69D61CF4-A097-4EF7-850C-25C6C40BC6D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 201,
+    "width": 607,
+    "x": 39,
+    "y": 52
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "AE952A5A-FE0A-4AD5-8AAC-7FB0B8733D8A"
+    },
+    {
+      "class": "group",
+      "id": "B49F6880-258D-4844-92C2-EC0ABA19F102"
+    },
+    {
+      "class": "group",
+      "id": "C91398F7-01F6-452D-B353-24346B4E1FE3"
+    },
+    {
+      "class": "text",
+      "id": "BFABA1AB-63A0-40DA-82AC-B64E48B149B9"
+    },
+    {
+      "class": "group",
+      "id": "C6DBA024-B000-45E3-89F2-F589048AF7F6"
+    }
+  ],
+  "name": "Image Media Drag Area",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

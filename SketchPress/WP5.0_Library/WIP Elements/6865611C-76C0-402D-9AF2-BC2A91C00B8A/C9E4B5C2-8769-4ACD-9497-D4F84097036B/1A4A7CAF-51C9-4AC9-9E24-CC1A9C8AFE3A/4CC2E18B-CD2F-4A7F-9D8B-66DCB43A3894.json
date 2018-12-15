@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4CC2E18B-CD2F-4A7F-9D8B-66DCB43A3894",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "865BCC34-79AA-41A5-85FD-4FA7EEF199B6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4EAFA07B-436B-480F-AC90-4DD9CE4F9293",
+    "height": 19,
+    "width": 21,
+    "x": 0,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashicon/media/audio",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "50A89AA7-3A6C-4C8E-B31C-4F5C6A68384B",
+      "overrideName": "1E2FFA73-D5C4-4174-ADA5-D128B32DD0B3_symbolID",
+      "value": "B2D655A6-143E-435C-A9A8-5BED86F0410F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "35BDB5CB-31A9-44F8-B2AE-326FF666FB49",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8DD7D5B3-789F-4494-B5FE-5AF347BC20BF",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BF1D5CCF-E8CA-4FCD-BD83-D0D25660B303",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 119,
+  "clippingMaskMode": 0,
+  "do_objectID": "A457F8D6-0A5F-455D-A2E2-A37FDB1CB267",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "34554841-EE11-45F8-AC4F-63EA04545788",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7EC7B96F-BC7F-49BE-B3FF-9D2B6F80DC21",
+    "height": 18,
+    "width": 20,
+    "x": -277,
+    "y": -510
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "AC32F17E-1CCE-4FC8-B5A1-5EF6F0D5D499",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "25D606C9-77CC-41D6-9EB4-CB17A1A9596D"
+    }
+  ],
+  "name": "dashicon/editor/align-right",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E3E9C851-F4CA-47BF-85AB-A6A2E8720E22",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5057D9C0-EEC3-4E6B-BFC1-6250C10087CA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "613BFBBC-E525-4D50-9D1E-F8390046C7DA",
+    "guides": [
+    ]
+  }
+}

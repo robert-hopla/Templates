@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "DFE3FE7D-D2BF-4B34-BB45-959BEE99C09D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 501,
+  "clippingMaskMode": 0,
+  "do_objectID": "AD7E5452-2E8B-40D2-B96B-0E77BE5692F9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "21631E84-419D-458B-9BAF-EB176927FC40",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C67CF634-0C31-4976-8204-EB58186D8F27",
+    "height": 17,
+    "width": 15,
+    "x": 1840,
+    "y": -187
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "16F59C5B-5540-493F-954C-29F3C37F399D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "097673D6-FFDD-4D06-A632-53FF04DBBE53"
+    }
+  ],
+  "name": "gutenberg/icons/trash",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BAC0B3FE-889F-42E6-85EE-CFD992ACF40D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7097A0FA-F01E-4D5A-A6C0-35FCB7F01D9B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EBA6EC35-15F3-4CB7-8830-57E507F0A603",
+    "guides": [
+    ]
+  }
+}

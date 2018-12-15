@@ -1,0 +1,69 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A3E9EFBF-9944-458A-994D-162593C9CF86",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A9157602-2930-49DA-94DB-420C5A011EBD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56474401-2F53-47ED-991F-E4551027C1FF",
+    "height": 201,
+    "width": 607,
+    "x": 39,
+    "y": 52
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "43F99186-1A34-4C06-BE83-E59E46B3EDA0"
+    },
+    {
+      "class": "group",
+      "id": "AF4A2B25-68A1-44E6-8635-3AE4A811A8B1"
+    },
+    {
+      "class": "group",
+      "id": "029D4DA6-1F54-4C58-9DDD-49BEFE43AE51"
+    },
+    {
+      "class": "text",
+      "id": "4A9F8677-82B8-4EE8-B804-25FCAC00B0FE"
+    },
+    {
+      "class": "group",
+      "id": "7541DE2A-C6BF-44D2-969E-BF587D60A3D2"
+    }
+  ],
+  "name": "Image Media Drag Area",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27EC0FE8-0F12-41CA-B377-2B69ACB49F7E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

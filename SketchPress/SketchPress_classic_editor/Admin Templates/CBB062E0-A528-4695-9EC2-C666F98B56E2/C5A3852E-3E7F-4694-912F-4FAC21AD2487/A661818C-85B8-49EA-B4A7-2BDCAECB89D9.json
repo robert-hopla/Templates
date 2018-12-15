@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "A661818C-85B8-49EA-B4A7-2BDCAECB89D9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A05E35ED-C709-49B6-A6C6-A4912EC46377",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1464A517-2755-4119-B5CA-B69240F21DCF",
+    "height": 28,
+    "width": 99.82595973808611,
+    "x": 10,
+    "y": 45
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "core/input/submit",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "92278FE4-E6CC-41E9-A8B3-2CF87C1F6AE5_stringValue",
+      "value": "Save Draft"
+    }
+  ],
+  "resizingConstraint": 9,
+  "resizingType": 1,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9A66D914-C90B-46D8-AC7E-7663B94D984D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "5FE2CE62-EF99-46AB-A165-E4EBF8EE2023",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "662DF447-D0F2-49A9-87C2-895F300B5C6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "701F0933-27D3-4146-B205-7BF18047EFF6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AA9D5657-82B7-4422-BE3D-B362D3F442B4",
+    "height": 13,
+    "width": 17,
+    "x": 5.265625,
+    "y": 8
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "0F3662D3-E4B4-4717-8BBA-C87C77C92CCC"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "ED64120F-275F-4DB9-885D-BC66AB18A5A9"
+    }
+  ],
+  "name": "Arrows",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86FCD78A-7D75-4C72-B31F-C3AEF757A2A0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

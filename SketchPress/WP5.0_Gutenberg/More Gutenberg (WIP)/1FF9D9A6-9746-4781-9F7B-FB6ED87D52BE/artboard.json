@@ -1,0 +1,163 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "1FF9D9A6-9746-4781-9F7B-FB6ED87D52BE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1100,
+    "width": 1440,
+    "x": -353,
+    "y": 1160
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      184,
+      1256
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7570EDE6-7434-412A-ACBF-9C7F8365434F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "154313B5-9923-4540-A436-B1F5BF191C5C"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "25853293-88B0-4D56-9B33-61AD6DD5A2D3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E784D698-3212-4683-BC6A-2AC32ABDDE16"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E9135A45-D5E4-4B72-A292-BF5B0966B7D5"
+    },
+    {
+      "class": "rectangle",
+      "id": "76F5A7B6-77F4-4DEC-AF2A-851DEC959941"
+    },
+    {
+      "class": "text",
+      "id": "966BA3D4-18B8-476E-839C-D8BBB636A2E6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "6EEEF626-1C04-4001-8C52-15AA33CC9BFD"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3BCC8730-B587-4B0F-8B91-A84B66903E7E"
+    },
+    {
+      "class": "rectangle",
+      "id": "50A92F10-ACDE-40A4-9075-B098237EA689"
+    },
+    {
+      "class": "group",
+      "id": "FAF9B350-FFBB-4A11-A803-4E54FA1B0CF1"
+    },
+    {
+      "class": "group",
+      "id": "8FF33B1A-4349-447E-8BF4-22AB76E7FFC2"
+    },
+    {
+      "class": "group",
+      "id": "60502EA4-5F7F-4C18-83FE-5868F82C1E78"
+    },
+    {
+      "class": "group",
+      "id": "90F2D0A8-BF67-42DE-B052-4C28404119EB"
+    },
+    {
+      "class": "text",
+      "id": "BC293E56-0B02-4C92-99C3-6AAD0D967CBB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "23F41F73-626F-4020-B100-B76454E30CD2"
+    }
+  ],
+  "name": "Gutenberg: New Post Write Your Story More Options",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

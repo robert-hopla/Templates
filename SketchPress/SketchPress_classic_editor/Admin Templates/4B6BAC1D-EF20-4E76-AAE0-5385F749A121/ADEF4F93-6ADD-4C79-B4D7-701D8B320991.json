@@ -1,0 +1,59 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "ADEF4F93-6ADD-4C79-B4D7-701D8B320991",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 53,
+    "width": 1069,
+    "x": 180.6484375,
+    "y": 94.4765625
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "/core/shell/media-navigation",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "EA287451-7F55-4DBC-B0E2-316ED5294FF0_symbolID",
+      "value": "9FC1D70C-94D9-44C2-A1F2-D0179DD8A430"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "57A573AA-8B46-455B-877A-DEE95439597B_symbolID",
+      "value": "4917D525-8352-4993-AA4F-2D234BE42197"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "75576683-C636-4AE6-91E9-A455771BC8BD",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "14C786E9-AB47-466C-AAE2-83ADE273FD31",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 4,
+  "clippingMaskMode": 0,
+  "do_objectID": "851F0F9C-A66D-4654-89E1-2E1F8A4E0255",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "18FE4321-91FB-4C63-AEB4-D70B2C63C578",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B93B9770-10F4-44DA-A0C1-CDF2B99214C3",
+    "height": 16,
+    "width": 16,
+    "x": 4696,
+    "y": -151
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4D21EBEE-A22B-49BF-817C-EEE77B1CA18C",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CB00252F-F8C0-40A7-B008-56A6C166361B"
+    }
+  ],
+  "name": "core/input/checkbox",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1A62C1A0-6B81-4548-B108-B12DD44548B6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4E84D7F2-1E22-4A09-BA58-7699CC3D8F02",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A14DD291-A3F6-48F3-B7F2-EF335F99AEA7",
+    "guides": [
+    ]
+  }
+}

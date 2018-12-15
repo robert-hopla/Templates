@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5C0E8DE2-94FE-4AC7-9F3D-DA27554BE5D2",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 38,
+    "width": 104,
+    "x": 82.767578125,
+    "y": 0.68896484375
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8EBCEE9B-3802-4948-9C7E-A4D89B90D00F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "54F74EAD-BA25-4F79-BFBF-C6E65627CB23"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7775D5F0-854F-47A0-BBF3-1B33B7E3D220"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E86F5E07-D5B8-49EE-97D6-FDA2834A1BB8"
+    }
+  ],
+  "name": "Alignment Box",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EA229069-BC1D-4103-A575-4444C2AE304D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1277CDB3-49FF-4E2E-A14A-4C3A007D5874",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "553C6BE7-7581-46CE-992F-0BCEA3D034BF",
+    "height": 35,
+    "width": 70,
+    "x": 941,
+    "y": 9
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "1C8D7E5C-7ADA-4C65-957F-72131279E143"
+    },
+    {
+      "class": "text",
+      "id": "CA6EA263-4682-4E83-AE27-5F72FD6D3B9E"
+    }
+  ],
+  "name": "Status and date",
+  "nameIsFixed": true,
+  "resizingConstraint": 12,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "09DAFD1B-0B25-47C8-81B1-567F6DDAA327",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

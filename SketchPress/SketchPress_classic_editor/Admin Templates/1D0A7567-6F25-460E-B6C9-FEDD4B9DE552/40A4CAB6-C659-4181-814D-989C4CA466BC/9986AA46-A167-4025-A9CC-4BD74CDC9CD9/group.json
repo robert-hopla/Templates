@@ -1,0 +1,110 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9986AA46-A167-4025-A9CC-4BD74CDC9CD9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 452,
+    "width": 400,
+    "x": 810,
+    "y": 77
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "9D35AE02-886D-4C34-8E0E-641A3EB55C77"
+    },
+    {
+      "class": "text",
+      "id": "46A6E81E-0BA6-42E3-BB4E-DD866974B5D5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5579ECE7-782B-4938-8343-EB77F1937EE7"
+    },
+    {
+      "class": "shapePath",
+      "id": "9174D5CA-DE6C-401B-B69E-4420201B98E5"
+    },
+    {
+      "class": "group",
+      "id": "77C3304A-3143-4B7B-A4D1-D5619440ACDC"
+    },
+    {
+      "class": "group",
+      "id": "923261C5-2FF4-43DE-8597-2555C10BE04C"
+    },
+    {
+      "class": "group",
+      "id": "69C243AF-5697-45A8-9751-08CA27D59F5F"
+    },
+    {
+      "class": "group",
+      "id": "85C67156-7869-413F-9923-DCC1683A1E37"
+    },
+    {
+      "class": "group",
+      "id": "DC1B5B11-3E55-4FAE-A061-D447FE3D26AB"
+    },
+    {
+      "class": "group",
+      "id": "77E53A49-1B72-43EA-B71E-B3BC0DB10A08"
+    },
+    {
+      "class": "shapePath",
+      "id": "6FF63B8D-4BCD-4C5F-B42B-3DCBE0A622B0"
+    },
+    {
+      "class": "group",
+      "id": "B1FA369B-7933-4A01-A418-F0FEE195233E"
+    },
+    {
+      "class": "group",
+      "id": "737082BE-34E5-48C0-B7B2-252B5656257E"
+    },
+    {
+      "class": "group",
+      "id": "7EE3165B-80CE-43E6-981A-7EFBE90FAFA0"
+    },
+    {
+      "class": "group",
+      "id": "E4768BAC-218F-4136-B1A6-DEFE06ADDCB4"
+    },
+    {
+      "class": "group",
+      "id": "AB26A164-BBD5-4B60-A986-8E258A6AD115"
+    }
+  ],
+  "name": "Image Meta Data",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

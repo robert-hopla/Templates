@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "545FC02F-9407-4E3C-AF19-208E82CD00B4",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 119,
+  "clippingMaskMode": 0,
+  "do_objectID": "ACBB11A0-0F0F-497D-A9B4-EBEF2301B133",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4F82FB30-F430-45AA-B87E-E8C2F6DAF88A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B13E863-0259-4429-805D-04C2F82FD038",
+    "height": 18,
+    "width": 20,
+    "x": -37,
+    "y": -510
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "161DB777-1A43-49F9-9ED6-F3D3D6C160A8",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "AB2B0E08-5621-4800-9700-195E79C49AEF"
+    }
+  ],
+  "name": "dashicon/editor/bold",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D16D52F1-3D59-460C-A449-7CAFC4B9EF4B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1935D68C-3B9F-4385-BEA3-1347BF1C9590",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "FBD13AC4-CB7B-4560-838C-1A0BF5A804BE",
+    "guides": [
+    ]
+  }
+}

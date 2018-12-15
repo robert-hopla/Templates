@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0192E4F4-C84C-4730-ADC0-C23FE10C4BBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 109,
+    "width": 106,
+    "x": 296,
+    "y": 236.0263671875
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "41C49B94-AF1F-4F70-9949-648B52B5EF06"
+    },
+    {
+      "class": "group",
+      "id": "B4B71F0F-BFB8-4323-A79C-99F5E8FC6583"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "03C17FBB-A964-4263-864E-6EA40BFB7847"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3F8A0045-1E58-4A80-9275-088C3F05AD3A"
+    }
+  ],
+  "name": "Image Drag & Drop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

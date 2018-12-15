@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B4CBD4ED-BC67-482A-8A14-AE2FBA45DE2B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6C0BB24D-211E-4560-905F-B2E7BB503FAC",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3781A461-7334-4951-A9A5-12E5AC1F21B3",
+    "height": 587,
+    "width": 280,
+    "x": 0.59765625,
+    "y": 0.10546875
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gutenberg/Sidebar Settings",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C4248433-1508-4668-8256-A948781EF54B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A0004357-0FA7-41AA-94B2-50570FB91A63",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "58E642A7-B47B-4712-A6DD-8E9DECDC394F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E161E705-2613-4D85-8115-B6CA6829AA64",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D34E8FF6-4820-411D-B577-760BC2B8535E",
+    "height": 20,
+    "width": 20,
+    "x": 320.70703125,
+    "y": 16.53125000000006
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Caret for Common Blocks",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C7F36382-66E4-4F62-9FD3-B3BBDAC60C57_symbolID",
+      "value": "F7CFF174-1399-4971-8EBE-235FD5BFD770"
+    }
+  ],
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 360,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4CF979D-3118-42C3-88D4-FAB8750477AC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8EDF5B58-6F4B-45A7-8EDB-CD720410D50E",
+  "verticalSpacing": 0
+}

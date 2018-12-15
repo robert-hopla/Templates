@@ -1,0 +1,111 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.299957483,
+            "green": 0.299957483,
+            "red": 0.299957483
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans-Light",
+              "size": 18
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 36,
+            "minimumLineHeight": 36
+          }
+        },
+        "length": 853,
+        "location": 0
+      }
+    ],
+    "string": "1.0  Dashboard\n2.0 Posts\n\t2.1 Posts: Quick Edit\n\t2.2 Posts: Add New\n\t\t2.2.1 Posts: Add Media\n\t2.3 Posts: Tags & Categories\n3.0 Media: Grid View\n\t3.1 Add Media (grid view)\n\t\t3.1.1 Add Media: Drop Files (grid view)\n\t3.2 Media: List View\n\t\t3.2.1 Add Media (list view)\n\t\t3.2.2 Add Media: Drop Files (list view)\n\t\t3.2.3 Add Media: List View Uploading Percentage\n\t\t3.2.4 Add Media: List View (confirm)\n\t\t3.2.5 Add Media: Browser Uploader (list view)\n\t\t3.2.6 Add Media: Browser Uploader Confirm (list view)\n\t3.3 Insert Media\n\t3.4 Edit Media\n\t\t3.4.1 Edit Media: Grid Layout View\n\t\t3.4.2 Edit Media: Modal From Post/Page\n\t\t3.4.3 Edit Media: Detailed Modal\n4.0 Pages\n5.0 Comments\n\t5.1 Comments: Hover State Choices\n\t5.2 Comments: Quick Edit\n\t5.3 Comments: Edit\n6.0 Appearance: Customizer\n7.0 Users\n\t7.1 Users: Add New\n8.0 Settings (generic screen)\n9.0 Page Shells"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FBF652E7-CB32-44F7-896A-3F00B82A8AFF",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1116,
+    "width": 490,
+    "x": 20,
+    "y": 339.6697005725999
+  },
+  "glyphBounds": "{{0, 0}, {489, 1116}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "1.0 Dashboard 2.0 Po",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.299957483,
+          "green": 0.299957483,
+          "red": 0.299957483
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans-Light",
+            "size": 18
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 36,
+          "minimumLineHeight": 36
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 0
+}

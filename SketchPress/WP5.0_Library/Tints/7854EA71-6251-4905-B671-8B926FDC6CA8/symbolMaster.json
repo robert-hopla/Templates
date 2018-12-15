@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B619AC4F-7973-492B-A0A8-57638970B2C7",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 129,
+  "clippingMaskMode": 0,
+  "do_objectID": "7854EA71-6251-4905-B671-8B926FDC6CA8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C9408DAA-5244-4D6A-8F28-2B7CB866796B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B57A9456-EA90-4E32-8789-5BE5CEF1DB85",
+    "height": 100,
+    "width": 100,
+    "x": -196,
+    "y": -61
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8E924520-D2C6-4531-AD04-6C494148F0B9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "530D152B-4C2F-436D-8C51-AABA82C9BF25"
+    }
+  ],
+  "name": "dashicon/tint/light-grey",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5108E848-9D5B-466F-BFCD-808EC8AF443F",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6239EA87-F618-473F-9DA5-C55D6295A7D3",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "EED7A6F8-E7EA-4CFD-A901-2D2A86FAD8C8",
+    "guides": [
+    ]
+  }
+}

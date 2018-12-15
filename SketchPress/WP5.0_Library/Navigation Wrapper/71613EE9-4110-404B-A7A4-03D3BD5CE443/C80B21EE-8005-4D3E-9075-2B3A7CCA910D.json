@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C80B21EE-8005-4D3E-9075-2B3A7CCA910D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "08F90DA8-D1FD-4265-9A70-21119928EB4F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5B4F0A01-93A6-4668-AACF-F1B7285D951E",
+    "height": 34,
+    "width": 160,
+    "x": 0,
+    "y": 13
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Core/admin-nav-desktop/nav-item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7EE33A7A-1C53-429E-BD86-572B38394D17",
+      "overrideName": "9612F76C-29C5-492F-957A-E0C7C652E0B4_stringValue",
+      "value": "Dashboard"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 1,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CCD1CD09-CA3B-4D26-AD33-1EEB7108F03D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A57393A0-B2A0-45C3-B6BB-54E8367B22BF",
+  "verticalSpacing": 0
+}

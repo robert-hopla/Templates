@@ -1,0 +1,89 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E151BA92-D43A-4645-A1F8-FCBBDEEA27EA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 13,
+    "width": 13,
+    "x": 3.5,
+    "y": 3
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "6AD53564-65E8-4F9C-A2DB-6826DEA4A816"
+    },
+    {
+      "class": "shapePath",
+      "id": "C49CD45E-3787-4F19-974C-76B0797E6859"
+    },
+    {
+      "class": "shapePath",
+      "id": "AA2B4003-A919-47FC-94E4-C62AC90E1D49"
+    },
+    {
+      "class": "shapePath",
+      "id": "660CE805-8DB7-4B62-B7CA-E9C81C5C75F8"
+    },
+    {
+      "class": "shapePath",
+      "id": "CDA32F14-28FA-4BAA-AD09-3124F0774174"
+    },
+    {
+      "class": "shapePath",
+      "id": "B81E7BEB-4514-41C6-8BAE-8B31516F94A1"
+    }
+  ],
+  "name": "Mask",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5333333333333333,
+          "green": 0.5333333333333333,
+          "red": 0.5333333333333333
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

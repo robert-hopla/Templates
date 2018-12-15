@@ -1,0 +1,78 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BA16C15B-4B4F-432F-B55B-ED8BC07827C0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 32,
+    "width": 1280,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7F01FC4F-8891-4132-B821-DFB4812DE049"
+    },
+    {
+      "class": "text",
+      "id": "4EFE1AED-C090-49CA-84D5-1AC387296E52"
+    },
+    {
+      "class": "bitmap",
+      "id": "D953BD3C-1C53-42BB-BF95-08462D38E8A8"
+    },
+    {
+      "class": "group",
+      "id": "15C510A9-CB91-4EAB-A4A8-74F7A2DEF8DD"
+    },
+    {
+      "class": "group",
+      "id": "98AF425C-5553-4D12-BF14-0001E4BCA087"
+    },
+    {
+      "class": "group",
+      "id": "74506AE5-491D-438D-9858-D866E11F5434"
+    },
+    {
+      "class": "group",
+      "id": "BBDD3DCA-A31B-48F4-B0AD-696FBC6C20A5"
+    },
+    {
+      "class": "group",
+      "id": "27337A4E-5BAB-480B-A1D6-42CEF134AE6C"
+    }
+  ],
+  "name": "Core / admin bar-desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

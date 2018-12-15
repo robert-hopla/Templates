@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "04202B24-D707-4869-A444-5DD0F7E273F0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "357C657F-E738-4801-9AAC-59E389DC8976",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F45F8E14-B158-4844-8961-4530A4F4D386",
+    "height": 73,
+    "width": 101,
+    "x": 12,
+    "y": 93.12890625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "182E9FD9-584F-420C-9E44-981132106DB4"
+    },
+    {
+      "class": "text",
+      "id": "C3C338D4-3CDD-4EAE-9D43-CFC36F185844"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F4DCC6B2-5603-4D16-8566-DFBB499B759D"
+    }
+  ],
+  "name": "Paragraph Block",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "10D880F8-9F1D-4398-87B6-644F9CB1A50D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

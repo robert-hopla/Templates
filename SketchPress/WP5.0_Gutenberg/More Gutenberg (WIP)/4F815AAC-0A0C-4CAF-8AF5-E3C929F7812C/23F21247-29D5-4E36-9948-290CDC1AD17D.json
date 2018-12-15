@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "23F21247-29D5-4E36-9948-290CDC1AD17D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "692EAE07-1F23-4C28-8F61-AE2D093F8293",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C4CFD7B-6B9A-4EE5-89CB-C3615CED4B95",
+    "height": 100,
+    "width": 680,
+    "x": 314,
+    "y": 331
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gutenberg/Core/Audio-Uploaded",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2A459D7D-2B82-45C9-8A62-032372FCB5B3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EF83AE5F-3C88-466E-9FD3-393AEF0B89B9",
+  "verticalSpacing": 0
+}

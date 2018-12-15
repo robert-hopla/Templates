@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "745150AF-F369-49D7-A47C-654C1B8F21E0",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 647,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6F32390-F99A-49EE-A3BA-D4E73E2DF2D4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F959E63E-1AB7-4F0F-ABE9-D1F94FB5AD9B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D2FC5A8-32CC-49CE-8299-57BF0911A2D0",
+    "height": 30,
+    "width": 30,
+    "x": -266,
+    "y": 339
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E88D1FD5-FA1A-49E2-BD99-59B08901BBBF",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "7E6BB987-99D8-4981-981F-D7D571D11544"
+    }
+  ],
+  "name": "dashicon/tint/Dark Gray 900",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FD1C8983-25A3-422E-AC94-2E6252EB3097",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2469E938-DDCD-495E-A061-A10D689CBB3E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "67B73FD0-3130-4DE1-9F2E-23FB125F8BF9",
+    "guides": [
+    ]
+  }
+}

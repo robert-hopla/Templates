@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "E3FE19C5-D303-49F3-909E-8C0C9E9CFD9D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 1159,
+  "clippingMaskMode": 0,
+  "do_objectID": "3D87DB5A-2AF7-4103-A56A-1953A3F160D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F46B446B-DD52-4BD7-9CE1-E6B8797C393D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1046D7BB-0479-4BDC-941F-B71AE1832D22",
+    "height": 18,
+    "width": 18,
+    "x": -219,
+    "y": -934
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "68339558-8DBF-49FC-BCB3-04588891242E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "F649DCE8-D8F6-40E2-B103-0D8582D9DD85"
+    }
+  ],
+  "name": "Icon/Cover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "92597156-769A-4B49-9C74-63F64005F025",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C042C6BC-1E8E-4126-ABFA-A423CB190671",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "4844B0EC-1A66-4D2A-94EB-D6838F63261A",
+    "guides": [
+    ]
+  }
+}

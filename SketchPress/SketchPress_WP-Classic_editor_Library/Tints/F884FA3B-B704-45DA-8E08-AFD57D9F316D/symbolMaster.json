@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "5CC2C5F8-E320-4875-A3B9-DC53CF41AA1D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 131,
+  "clippingMaskMode": 0,
+  "do_objectID": "F884FA3B-B704-45DA-8E08-AFD57D9F316D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0EEDDA37-8041-497F-B6F1-AA3A04BC5BB1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F7C8A24-1C95-47A8-9B72-B67C3BC26933",
+    "height": 100,
+    "width": 100,
+    "x": 284,
+    "y": 139
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "3CEFA6C0-ABD7-4E4F-9B71-0A16B1B082C9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FE93B473-45A9-4E5C-869B-A4A741F8BABC"
+    }
+  ],
+  "name": "dashicon/tint/wordpress-green",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "87CF12F2-D5EE-4AD3-8E1B-E0A8C1A53509",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD29646D-AB9F-438E-9CAF-B4E3B628CDE9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C7A0D724-EA1B-49EF-82D7-CFEDA8C1BB09",
+    "guides": [
+    ]
+  }
+}

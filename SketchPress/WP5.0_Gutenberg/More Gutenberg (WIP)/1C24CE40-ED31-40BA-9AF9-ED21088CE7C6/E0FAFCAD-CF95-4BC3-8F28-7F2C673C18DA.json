@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "E0FAFCAD-CF95-4BC3-8F28-7F2C673C18DA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E8F7CAC5-70C6-4DB2-8EE4-1F16720EB35E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C8520729-3B16-47AE-B6CF-A9941348F9C7",
+    "height": 433,
+    "width": 352,
+    "x": 483.859375,
+    "y": 379.1015625
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gutenberg/Insert/Block_Center",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF1295D7-304F-4F33-9C95-7399DBD708FE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BF8BAC05-2F1E-4DB1-AA6D-A744A97269FA",
+  "verticalSpacing": 0
+}

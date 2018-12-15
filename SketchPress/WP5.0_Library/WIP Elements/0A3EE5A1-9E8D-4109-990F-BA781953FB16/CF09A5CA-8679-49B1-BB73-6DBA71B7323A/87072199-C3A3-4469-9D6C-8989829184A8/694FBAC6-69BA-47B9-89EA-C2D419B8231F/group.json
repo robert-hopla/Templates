@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "694FBAC6-69BA-47B9-89EA-C2D419B8231F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0197C8D-0CC9-4C03-ACD8-9661B4A1A3B5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D4584B7B-FFCA-419F-98DD-B2F6FCDCF0F0",
+    "height": 16,
+    "width": 12,
+    "x": 13,
+    "y": 11
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "58A8017C-B196-4F0A-A433-FCDAAAC121CA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AA67FA8F-015A-4975-9021-1016AD4AEBC2"
+    }
+  ],
+  "name": "dashicon/editor/header1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B8200DC5-D45B-439E-BF9D-CBB2C3792EEA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

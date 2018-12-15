@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B2E45AD8-DE09-4008-8A7F-A91CB2EBA4C6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 102,
+  "clippingMaskMode": 0,
+  "do_objectID": "B1C9593D-7B94-4AA4-8DB7-A97319490AB1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "216505CB-18DE-4AC7-A810-3134AE8D1229",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "85C9A074-DF91-40F3-AB6D-D399BA5E275B",
+    "height": 28,
+    "width": 247,
+    "x": -445,
+    "y": 359
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A9EDE68D-B2BD-49ED-A37A-57588F408920",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4BC89DA0-3A59-409E-9747-6515012BA61A"
+    },
+    {
+      "class": "group",
+      "id": "D3B6EAA0-C1F7-40F9-919A-4EFBADF963BE"
+    },
+    {
+      "class": "text",
+      "id": "C3AC668C-F763-429F-A946-D432D4DF0ED5"
+    },
+    {
+      "class": "group",
+      "id": "D2063DD7-9814-4E6F-A14F-A5FF5AD15115"
+    },
+    {
+      "class": "group",
+      "id": "8C718A97-1A05-449F-A649-71749FC5F2F8"
+    },
+    {
+      "class": "group",
+      "id": "085BAB86-1527-4E7C-B92A-A44588066518"
+    },
+    {
+      "class": "text",
+      "id": "CC46EB16-366C-4031-B774-6B53BD314298"
+    }
+  ],
+  "name": "core/shell/pagination",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "42BED795-A602-4EF0-82A5-E7685C937F09",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BFC05A8C-EB30-4B87-85BC-9AE96FB9B70B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "C386812A-CB66-4676-A636-88602B431D6D",
+    "guides": [
+    ]
+  }
+}

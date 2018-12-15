@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8E65C611-5D0E-4DD0-BB64-B2330D9818C5",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 391,
+  "clippingMaskMode": 0,
+  "do_objectID": "91E91480-BA23-4501-9A7E-23F0D2A58DFD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "640EC32C-0AC3-493F-8518-26E992A870C2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0D1F9FC8-400C-4F03-994C-084599635FD4",
+    "height": 18,
+    "width": 18,
+    "x": -317,
+    "y": -934
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "66190BDE-89D9-4659-B45D-B4ACEC0C19A1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2D7DBC47-04E4-4ABA-B3AC-53FA0304239D"
+    }
+  ],
+  "name": "Icon/List",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "5592F491-67C6-426E-AE5A-20492739137E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D1D898EB-CE2A-41B3-9D58-5D90898E0736",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "9087AF71-2DAB-4A2C-AAC9-A19E9EAD10C5",
+    "guides": [
+    ]
+  }
+}

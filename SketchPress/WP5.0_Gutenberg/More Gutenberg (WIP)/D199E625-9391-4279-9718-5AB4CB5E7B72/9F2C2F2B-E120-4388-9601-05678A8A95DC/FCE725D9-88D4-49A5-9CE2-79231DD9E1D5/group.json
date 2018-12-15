@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FCE725D9-88D4-49A5-9CE2-79231DD9E1D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F86A7B0B-2CB8-4FC3-978C-05FF25C1E9F5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2FDF1297-AF1A-499D-81CB-DF5C2916BCFF",
+    "height": 49,
+    "width": 320,
+    "x": 0,
+    "y": 114
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "5C696B51-C86F-4647-8094-283A73F46D7D"
+    },
+    {
+      "class": "text",
+      "id": "90B194F0-5334-4349-AA8B-06A25DD62149"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D0713265-454C-4279-AB45-95A5A93DE706"
+    }
+  ],
+  "name": "Featured Image",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CBA6CCCD-A516-4352-AD25-68558BBDC202",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "18B97F42-D61D-49A5-8E0C-40470DECE41B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 120,
+  "clippingMaskMode": 0,
+  "do_objectID": "F3625606-975C-4B17-BC57-3938587B96FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "81EAE04F-D2BC-4B5C-BEBC-02D51EDAF9AF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E0A0787C-2711-41F1-8B40-18FFC202CBE2",
+    "height": 54,
+    "width": 62,
+    "x": 26,
+    "y": -60
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A89B4B97-656C-420C-9D84-48D2E3893F4A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "47C74614-AD72-46A1-A984-874E5743CB48"
+    }
+  ],
+  "name": "core/images/media-file-list",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8965AD9E-8829-4AB0-B9D1-86817EF08F8C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD35758F-5C62-499E-A926-68F6C07D9077",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D9E0A17F-03E9-4984-AE25-65340F5263D0",
+    "guides": [
+    ]
+  }
+}

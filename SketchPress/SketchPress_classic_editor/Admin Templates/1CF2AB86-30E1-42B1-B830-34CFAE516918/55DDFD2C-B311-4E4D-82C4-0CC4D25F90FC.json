@@ -1,0 +1,74 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "55DDFD2C-B311-4E4D-82C4-0CC4D25F90FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 59.99999999999999,
+    "width": 1070,
+    "x": 184,
+    "y": 722.0877813502184
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "list-table-rows/all-posts",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "F273EAE9-4064-4988-AE3E-3786EC8077B9_stringValue",
+      "value": "2015/04/01"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "7AD295B8-9747-4C4B-B9D8-7A0063E32F42_stringValue",
+      "value": "Books"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "961F2D8A-4329-4B34-907A-DA65E1D5FAF6_stringValue",
+      "value": "Sydney Padua"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "3AFBE913-B1F1-4927-B537-B5E3A3A496CB_stringValue",
+      "value": "history, comics, graphic novels"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "47F697AA-7943-4CBB-957B-9467ECC9387D_stringValue",
+      "value": "The Thrilling Adventures of Lovelace and Babbage"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "64C475B6-A0CE-4FAB-9471-65A7B1247913",
+  "verticalSpacing": 0
+}

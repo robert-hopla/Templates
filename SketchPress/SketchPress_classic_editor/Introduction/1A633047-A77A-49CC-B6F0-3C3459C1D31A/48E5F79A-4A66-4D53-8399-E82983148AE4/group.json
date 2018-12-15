@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "48E5F79A-4A66-4D53-8399-E82983148AE4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 67,
+    "width": 59,
+    "x": 24,
+    "y": 24
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "7E6D9FCB-E589-42F4-B12A-3DB27E994F13"
+    },
+    {
+      "class": "shapePath",
+      "id": "76CD75E0-8FC3-40F2-A629-6B8EB7767DB5"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "14427AA7-4092-4AD4-B295-708267F3F111"
+    },
+    {
+      "class": "shapePath",
+      "id": "832A3AF1-322E-4E34-AD33-E4876665386C"
+    }
+  ],
+  "name": "2014 10up logo",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

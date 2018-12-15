@@ -1,0 +1,76 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "6E9E42F0-BE43-4FAC-88A6-3C097EAA911D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "26E425F0-EB35-46C5-8F56-73FB6E78DBC0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3EB4F41C-6213-4B5F-A526-B5BA1E42CCAA",
+    "height": 18.32879805465493,
+    "width": 14.65625,
+    "x": 3.671875,
+    "y": 1.335600972672637
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "EE6D0740-7812-42E3-BCCE-7ED38D34E7D1"
+    },
+    {
+      "class": "shapePath",
+      "id": "58DC0469-1763-458F-8AC9-E781287E2B8F"
+    }
+  ],
+  "name": "Finger",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B2CBC892-BC0F-44C1-B110-CFC9CE26C350",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0,
+          "green": 0,
+          "red": 0
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

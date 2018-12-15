@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "03C0E72C-0AF6-44BE-AAD7-2D9C8767D895",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 26,
+    "width": 325,
+    "x": 24.49533962909788,
+    "y": 141.1015625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "4A87C065-B16F-4EEA-95A7-BD1F51A9D5C8"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "610AA61C-ECFA-4DC9-9B17-F642CC954F96"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1D9DF845-2443-45FB-9491-6BD75EB05BC9"
+    },
+    {
+      "class": "text",
+      "id": "13B33A72-AF40-49B4-8267-EE5FE1F7DD8E"
+    },
+    {
+      "class": "group",
+      "id": "15DA212A-A97E-40EA-8482-FF6B7A951CCC"
+    }
+  ],
+  "name": "insert before icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

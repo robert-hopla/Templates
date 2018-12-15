@@ -1,0 +1,69 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "44482182-4F6B-4545-B707-996D0A46E236",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 34,
+    "width": 160,
+    "x": 0,
+    "y": 212.9049280560749
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Core/admin-nav-desktop/nav-item",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "5F5711B6-9BDF-4883-A30C-3396B39928B5_symbolID",
+      "value": "9F188F6D-701E-4D47-B43A-24EDE34749A2"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5F5711B6-9BDF-4883-A30C-3396B39928B5/2F4CF36F-67B2-408F-B81B-28D1A2DA8954_symbolID",
+      "value": "4917D525-8352-4993-AA4F-2D234BE42197"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "5F5711B6-9BDF-4883-A30C-3396B39928B5/2D7ECCB0-8488-4526-8966-B1BE48169ABE_symbolID",
+      "value": "4917D525-8352-4993-AA4F-2D234BE42197"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "4121050F-43D9-4A86-9326-3D4DC709792C_stringValue",
+      "value": "Media"
+    }
+  ],
+  "resizingConstraint": 13,
+  "resizingType": 1,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "E8120802-7226-4766-A046-C36974FC8F76",
+  "verticalSpacing": 0
+}

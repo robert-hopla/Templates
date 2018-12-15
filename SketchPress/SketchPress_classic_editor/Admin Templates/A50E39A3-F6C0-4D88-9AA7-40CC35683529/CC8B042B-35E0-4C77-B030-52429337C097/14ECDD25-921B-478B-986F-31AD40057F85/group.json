@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "14ECDD25-921B-478B-986F-31AD40057F85",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 964,
+    "x": 38.6455078125,
+    "y": 152.505859375
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "F76335FC-CFD7-4288-97AE-A2584EF83148"
+    },
+    {
+      "class": "text",
+      "id": "392E4E40-B720-4421-BEBA-7FEC3544D8F6"
+    },
+    {
+      "class": "text",
+      "id": "6486AD25-BC01-491F-9842-EBE709747703"
+    },
+    {
+      "class": "text",
+      "id": "8E76D171-F708-4033-AA24-42F0256A3CA2"
+    }
+  ],
+  "name": "Bottom Navigation elements",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

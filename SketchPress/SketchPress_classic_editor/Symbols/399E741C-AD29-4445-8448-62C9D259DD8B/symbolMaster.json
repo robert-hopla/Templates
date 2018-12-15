@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "BB8247E6-51D0-4499-A96A-4074DEF1F5C3",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1166,
+  "clippingMaskMode": 0,
+  "do_objectID": "399E741C-AD29-4445-8448-62C9D259DD8B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "94A938AC-5FC1-420E-9B82-592947610C36",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D4D0016-1824-4EB5-A27C-9B9E93926E8E",
+    "height": 48,
+    "width": 760,
+    "x": 9156,
+    "y": 375
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "ECD7B252-CD5D-47CE-B1B9-DD007E805084",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "DA7EF308-8581-4782-9750-2D2566556BF4"
+    }
+  ],
+  "name": "Core/Notice/Update Inline",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C783D73E-8E00-4C88-B177-332389FEFBC0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "94503F06-AED3-4079-B54B-D1684D47647A",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "592B1ADA-D8AA-44A5-9705-3030A22B28D8",
+    "guides": [
+    ]
+  }
+}

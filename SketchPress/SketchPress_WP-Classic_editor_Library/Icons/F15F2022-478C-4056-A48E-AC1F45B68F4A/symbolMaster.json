@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "00052DD7-1D4D-4AE5-AFE1-0F87D0EDEC02",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 118,
+  "clippingMaskMode": 0,
+  "do_objectID": "F15F2022-478C-4056-A48E-AC1F45B68F4A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "041F20F0-E522-4161-8492-5E9C4ECCC703",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "395752B2-F09A-4149-A146-D4B0A5A32780",
+    "height": 20,
+    "width": 20,
+    "x": -437,
+    "y": -630
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "06D83B06-AD1A-4C4B-A87F-78AE64F3CF2A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "8C3AAAEB-B08D-42B1-95B9-73B846390D3A"
+    },
+    {
+      "class": "group",
+      "id": "048F9A57-EE90-429D-AA43-2FCB6996332C"
+    }
+  ],
+  "name": "dashicon/welcome/add-page",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "833722D3-97EE-4A1A-B680-C890DA43B469",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4199139B-1FB4-4D41-8FCA-DC0B5FA1DF0F",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "744DF873-4979-400D-92B8-B8DC8C84CDEF",
+    "guides": [
+    ]
+  }
+}

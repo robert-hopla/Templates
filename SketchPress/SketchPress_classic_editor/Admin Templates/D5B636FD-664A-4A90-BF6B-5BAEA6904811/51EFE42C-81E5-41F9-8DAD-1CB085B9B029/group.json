@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "51EFE42C-81E5-41F9-8DAD-1CB085B9B029",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 124,
+    "width": 262,
+    "x": 11,
+    "y": 140
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "B336E8CA-215D-4547-B843-018B3DFD3497"
+    },
+    {
+      "class": "group",
+      "id": "9047D8BF-71B2-4294-9A58-E462DB28E277"
+    },
+    {
+      "class": "text",
+      "id": "E617A0DC-614D-4577-8E2D-1FFA1A9C9928"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C34B7A75-D6DB-4F1C-8FF4-FCF0DA9D20D6"
+    }
+  ],
+  "name": "Base Color Scheme",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

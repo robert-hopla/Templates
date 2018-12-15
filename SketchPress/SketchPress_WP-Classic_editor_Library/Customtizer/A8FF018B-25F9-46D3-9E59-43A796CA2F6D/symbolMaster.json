@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "FD63AD45-7670-47FB-A0DE-03F14DF7E719",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 9,
+  "clippingMaskMode": 0,
+  "do_objectID": "A8FF018B-25F9-46D3-9E59-43A796CA2F6D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC588539-E5D1-43E4-9AE5-47EE7382ACE9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B36D1CF7-2CA5-4F03-AE84-C4B082B97FBF",
+    "height": 45,
+    "width": 293,
+    "x": 295,
+    "y": -364
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "F439CCFD-0D20-4F21-9992-DBEC5F451FEA",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "582742B5-06B9-4D5F-9795-33725F662EA4"
+    }
+  ],
+  "name": "secondary/shell/customizer/header",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4278A92-1F0F-4FFD-841C-DA5C4FFF861C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2BF7CE4E-F61B-4AFD-8165-19DD88C8CCA7",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8B7A1252-D56A-43A6-BD1A-EC4A1356025D",
+    "guides": [
+    ]
+  }
+}

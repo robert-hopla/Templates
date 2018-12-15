@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "589DC92B-3ECB-4857-8AF0-6F2F7AB6FB7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8FFDF91-5F2C-49FA-BA19-040F00A81BC7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "84E448D0-0E73-442E-9058-7D3A238E3D8F",
+    "height": 16,
+    "width": 16,
+    "x": 653,
+    "y": 102.55859375
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "core/input/checkbox--selected",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "624EFDA0-5035-4090-B57F-D116D45F3B59",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D392B82C-118F-48A1-B47B-704662F4B3A5",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "553E1D1C-B002-4BCC-902D-58D2B2E7FE16",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E3A362CE-9DED-4E2F-A62A-03293A2984B1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0287BD69-4DAF-492B-B27D-317F34A4AE2B",
+    "height": 21,
+    "width": 251,
+    "x": 21,
+    "y": 267
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "9CA10C0C-1ADF-45AC-8CAA-DC5391D89D35"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "114A515C-B44A-4519-AD57-B7BA0093FECD"
+    }
+  ],
+  "name": "Block Alignment",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "08781BFE-1304-4A35-B2EC-26FF6570965D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

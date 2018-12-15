@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FE2DB188-4457-4271-95D3-410B65C05E43",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E5980B7D-0E7B-4869-8DDF-E3B7FA598256",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9BFD253F-433E-4712-83AB-9F9DB24AEFDA",
+    "height": 14,
+    "width": 20,
+    "x": 121.5999999999985,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashicon/editor/align-center",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "97474EDD-30AD-4601-89AF-BADA1D826CF9",
+      "overrideName": "F74B8A06-26B6-432B-BB07-C707EE9E902C_symbolID",
+      "value": "9B58A1E1-36E6-4496-A86C-60C5E4A33D8C"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A4FA3C87-6C2B-4132-AC4D-180BB379FC78",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "36C0B252-9218-402B-B566-F346D9477A44",
+  "verticalSpacing": 0
+}

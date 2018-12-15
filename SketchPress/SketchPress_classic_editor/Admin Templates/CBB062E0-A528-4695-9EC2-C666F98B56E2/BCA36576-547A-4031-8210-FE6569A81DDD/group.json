@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BCA36576-547A-4031-8210-FE6569A81DDD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7697CFFF-5094-484B-BBE2-E767CDF1BB82",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0F8702F0-9829-4C3E-BB52-83558FF74D40",
+    "height": 238,
+    "width": 280,
+    "x": 21,
+    "y": 872.316905246756
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "2239D6D5-4227-4D7C-8F05-7E992A3C7C6D"
+    },
+    {
+      "class": "text",
+      "id": "08092DCA-E57B-4A07-9C60-F9309F4DF659"
+    },
+    {
+      "class": "group",
+      "id": "66BAA39E-500C-4E63-89F5-75DCFB5ABA72"
+    }
+  ],
+  "name": "Categories Meta Box Copy",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "83C7C585-EC2E-4E62-9176-212A2EFF732D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

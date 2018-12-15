@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "62AF75A6-CEE0-4DAB-BDFF-15B2ED0C0679",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "23263CC7-6508-49E4-9D25-7C217F54FE1C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D01DEEC2-BB4B-4CD2-BC8B-8EC52EFE5EBE",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "143B9B3F-0CD7-4BC0-9670-E1914AC9E755"
+    },
+    {
+      "class": "shapePath",
+      "id": "90EB2029-6740-4E16-9C4B-E5BF66EFF707"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A7B4E953-98FB-4A1C-9632-546336D48631"
+    }
+  ],
+  "name": "gridicons-cross-small",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7FFE838F-0D7B-41AE-A007-E84458E0EA1E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

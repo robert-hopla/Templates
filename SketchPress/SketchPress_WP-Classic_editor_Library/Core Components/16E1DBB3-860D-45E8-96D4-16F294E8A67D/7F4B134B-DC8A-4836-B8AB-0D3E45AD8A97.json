@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7F4B134B-DC8A-4836-B8AB-0D3E45AD8A97",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B1BFEC38-3F25-4C14-BC50-5D89A59A48B9",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A4CCCD7C-96D6-4C3B-874F-529BED0F7601",
+    "height": 60,
+    "width": 362.54296875,
+    "x": 653,
+    "y": 34.90000152587891
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "core/input/textarea",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6C803F6D-99A8-45D2-B188-107B02266E5E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "434DDF5E-7927-4494-AB81-A89C75C3AD6D",
+  "verticalSpacing": 0
+}

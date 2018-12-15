@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "710DB757-E266-482B-9D0E-DC73C385AEAD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0027F8EE-666A-4B13-821A-8F64E0358A60",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DE2977F5-1A50-4EA8-9C69-0A99FE2A8994",
+    "height": 38,
+    "width": 58,
+    "x": 25.767578125,
+    "y": 0.68896484375
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "043A533E-545B-4B3C-A70F-042C70CD3A13"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4A38E150-BC86-4A18-ACC9-2E3B5EAB3DB4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "4BE25B21-5AE2-437F-BB3C-1EC6CA57F9C7"
+    }
+  ],
+  "name": "Image Box",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F5260AB4-D198-4FE2-9C1E-DE06F9B9AE6A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

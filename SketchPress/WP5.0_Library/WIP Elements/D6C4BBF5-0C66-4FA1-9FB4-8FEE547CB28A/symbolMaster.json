@@ -1,0 +1,107 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "182265A9-E943-4648-BE5B-34C118F7E655",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2249,
+  "clippingMaskMode": 0,
+  "do_objectID": "D6C4BBF5-0C66-4FA1-9FB4-8FEE547CB28A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8912E4D8-9287-4BD5-85FB-311586305393",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AD69EA7D-44F5-4AE4-B655-6ADD140A54E6",
+    "height": 267,
+    "width": 680,
+    "x": 436,
+    "y": 1000
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "45D0146D-49C6-41F0-AD34-8FC9F65D2EA5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "160BF869-0F19-4CF8-B8A7-4DEEA340D150"
+    },
+    {
+      "class": "group",
+      "id": "8262C9E1-1B21-4503-BF07-CEFDB263D2DF"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "151DE4C4-B807-4089-ACD2-A490AB18500B"
+    },
+    {
+      "class": "group",
+      "id": "90420365-DF98-4FB6-917A-5CE997113D06"
+    },
+    {
+      "class": "group",
+      "id": "2899CA75-EE22-4891-B13D-587B53C76069"
+    },
+    {
+      "class": "group",
+      "id": "EAE6887D-564A-4AA7-9D66-342CCC22DDB0"
+    },
+    {
+      "class": "group",
+      "id": "E04AD9E5-45EB-4D70-863D-D75903C62BDE"
+    }
+  ],
+  "name": "Gutenberg/Core/Cover Image-Upload",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3FF3401B-03B8-4611-8CA2-C01F966AFCA6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "FD9C935C-0BBE-4825-8847-9B33A9D251AC",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A8F7C73B-2854-4048-8436-E9F8B30A7042",
+    "guides": [
+    ]
+  }
+}

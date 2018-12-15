@@ -1,0 +1,135 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "302AE9D0-787B-42E6-9563-4A7D6A31B6BD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+      {
+        "_class": "exportFormat",
+        "absoluteSize": 0,
+        "fileFormat": "png",
+        "name": "",
+        "namingScheme": 0,
+        "scale": 1,
+        "visibleScaleType": 0
+      }
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 1100,
+    "width": 1440,
+    "x": 4462,
+    "y": -255
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      184,
+      1256
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "text",
+      "id": "04414D7A-5F0B-42C2-B060-AED3DD1CBF7D"
+    },
+    {
+      "class": "rectangle",
+      "id": "79CF4A6E-6EF7-49DD-963E-DD61CF96F714"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F66B0950-AF69-47C9-A641-7CB6DBF48482"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E1E5FD69-C8CC-44FC-BFF2-F720F468923E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EDD255C5-2AE0-4A82-B1C7-9B7004662B07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "C8789A48-C0F4-428E-B335-B92052F89856"
+    },
+    {
+      "class": "rectangle",
+      "id": "0E4D3E09-5867-47CF-B33A-2D979E95FFF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "77B70C6A-86EC-4FA4-8344-09DFEA742BA1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "405A9FEA-437E-4A20-B610-BE871502A960"
+    }
+  ],
+  "name": "Gutenberg: New Post Write Your Story",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

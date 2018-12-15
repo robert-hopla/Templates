@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B02F1FF6-D5EF-437B-9434-7D5D48E2FFAE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F2460D46-70D5-42D3-9991-DF3D9906E608",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F78E7AF4-1183-40D8-A072-6A8F293C2064",
+    "height": 20,
+    "width": 20,
+    "x": 40.33984375,
+    "y": 15.56298828125006
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashicon/post formats/quote copy 6",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "F3B61675-BCF4-47CC-8A42-E7DB5683E8A1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "4AC544E4-93E6-4934-9AD1-CFE296877BC6",
+  "verticalSpacing": 0
+}

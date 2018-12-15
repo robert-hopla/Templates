@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "4CD51854-592C-4C4B-BCD3-A36A9E09A8FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 21,
+    "width": 964,
+    "x": 38.6455078125,
+    "y": 7.005859375
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "C7A50330-25AC-4329-88D6-0C392E4BB641"
+    },
+    {
+      "class": "text",
+      "id": "065BA4C6-9AFB-45D6-88E3-D4A37C64BE69"
+    },
+    {
+      "class": "text",
+      "id": "1F9D42ED-1393-4D00-9F3E-126B575B744B"
+    },
+    {
+      "class": "text",
+      "id": "E5332946-291A-49F7-8B5E-60CE19EB7D9A"
+    }
+  ],
+  "name": "Navigation Elements Top",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

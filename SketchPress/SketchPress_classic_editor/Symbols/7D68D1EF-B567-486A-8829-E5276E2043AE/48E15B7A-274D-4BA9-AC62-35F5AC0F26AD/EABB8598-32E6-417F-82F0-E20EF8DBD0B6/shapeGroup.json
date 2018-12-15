@@ -1,0 +1,85 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EABB8598-32E6-417F-82F0-E20EF8DBD0B6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 18,
+    "width": 18.15137631277585,
+    "x": 0.4754520737892562,
+    "y": 0.388671875
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "3551C302-43D3-4A22-B95F-18B4ABFE41BB"
+    },
+    {
+      "class": "shapePath",
+      "id": "BECEC3D2-0640-496F-AABB-813270CBA10F"
+    },
+    {
+      "class": "shapePath",
+      "id": "0C16B036-AEE1-4AA3-8ACE-3973F4059217"
+    },
+    {
+      "class": "shapePath",
+      "id": "96AD4ADD-25F5-435B-9FBF-28136A15267B"
+    },
+    {
+      "class": "shapePath",
+      "id": "F616D905-5F18-4EA0-880B-185C0F2B99F7"
+    }
+  ],
+  "name": "Grid View Icon Shape",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.122156675170068,
+          "green": 0.122156675170068,
+          "red": 0.122156675170068
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "windingRule": 1
+}

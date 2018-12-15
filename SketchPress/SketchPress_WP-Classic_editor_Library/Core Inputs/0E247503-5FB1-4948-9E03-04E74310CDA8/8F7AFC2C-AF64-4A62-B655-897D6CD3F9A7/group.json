@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8F7AFC2C-AF64-4A62-B655-897D6CD3F9A7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "300F560E-DC69-45E1-91AD-7CA155D590AA",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C7B56BBD-2F6E-4E61-9B7D-8F1CBE12A303",
+    "height": 6,
+    "width": 6,
+    "x": 191,
+    "y": 53
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "389FFA77-3FD6-4383-95A8-BE5E0124C2B0"
+    },
+    {
+      "class": "shapePath",
+      "id": "348A6464-0C95-4963-AEBA-66F69F1490F5"
+    }
+  ],
+  "name": "grab handle",
+  "nameIsFixed": true,
+  "resizingConstraint": 36,
+  "resizingType": 1,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28471C42-A908-4D0B-B03B-FB4CF56E18F4",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

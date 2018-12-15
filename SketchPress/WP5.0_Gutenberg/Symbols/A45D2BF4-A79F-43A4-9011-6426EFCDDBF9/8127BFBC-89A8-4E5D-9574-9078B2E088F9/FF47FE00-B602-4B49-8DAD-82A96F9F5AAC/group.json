@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "FF47FE00-B602-4B49-8DAD-82A96F9F5AAC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D29D55D5-2B3C-41D3-ABE1-79D31BB98F3A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4EE49DA7-AA35-4B9A-B402-F6E5DB71B08A",
+    "height": 38,
+    "width": 40,
+    "x": 0.767578125,
+    "y": 0.68896484375
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "FBC2C44A-E8C3-4B0F-96CC-7FCF10B5F0FE"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D154DB8A-C13C-47D1-8C32-4B92D85A1B42"
+    }
+  ],
+  "name": "Edit and Link Box",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C480BD79-349A-4545-BE98-42B1CE8CE828",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

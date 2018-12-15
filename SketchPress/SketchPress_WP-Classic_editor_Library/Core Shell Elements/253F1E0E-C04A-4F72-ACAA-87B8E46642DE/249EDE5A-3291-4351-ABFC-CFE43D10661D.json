@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "249EDE5A-3291-4351-ABFC-CFE43D10661D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "33651B48-6B64-4BE8-B689-B7600DA231A0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4822D4D2-86F4-48A3-B737-26AFDAEF449F",
+    "height": 28,
+    "width": 199,
+    "x": 855.8306966760847,
+    "y": 12.5
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "core/input/text-label-overlay",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4E514724-EDAA-4580-A839-0EB1569AA06E",
+      "overrideName": "5667C611-2E7F-4A47-AC32-294E597E0D48_stringValue",
+      "value": "Search"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "56DD2DF7-078B-4368-B94F-C81311ADE33D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "AD1A499E-2977-4E75-972B-09BD1CD8BC6E",
+  "verticalSpacing": 0
+}

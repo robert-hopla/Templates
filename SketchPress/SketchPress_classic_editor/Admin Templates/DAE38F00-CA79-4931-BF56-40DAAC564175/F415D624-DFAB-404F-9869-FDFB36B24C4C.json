@@ -1,0 +1,113 @@
+{
+  "_class": "text",
+  "attributedString": {
+    "_class": "attributedString",
+    "attributes": [
+      {
+        "_class": "stringAttribute",
+        "attributes": {
+          "MSAttributedStringColorAttribute": {
+            "_class": "color",
+            "alpha": 1,
+            "blue": 0.3725490196,
+            "green": 0.3725490196,
+            "red": 0.3725490196
+          },
+          "MSAttributedStringFontAttribute": {
+            "_class": "fontDescriptor",
+            "attributes": {
+              "name": "OpenSans",
+              "size": 14
+            }
+          },
+          "kerning": 0,
+          "paragraphStyle": {
+            "_class": "paragraphStyle",
+            "alignment": 0,
+            "allowsDefaultTighteningForTruncation": 0,
+            "maximumLineHeight": 21,
+            "minimumLineHeight": 21
+          }
+        },
+        "length": 2244,
+        "location": 0
+      }
+    ],
+    "string": "Labores variis scientiis mathematicis quae etsi videntur esse propria primum intellectus, potest tamen dividi in duas partes distinctus; quorum unum potest dici mechanicae quia praecise subicitur et semper leges, possunt per opera sententia rem alter, iniuste intercedente ratione est maxime intellectus ad dominium. Hoc admittitur proponere possimus facere per mechanica parte operibus mechanicis, quae attenditur secundum rationem intellectus facultates seruans purus. Et rigidi accurate leges quae de numeris et saepe id est ratione materiae, usus instrumentorum, vel exequendo vel minuere eos omnes huiusmodi rationes; inde ortae sunt plures inventa hoc spectare, sed in communi, sed ex parte, quae pervenit. Nam in tantum iam mirari Pascal machinae solum obiectum cupiditatis, quae dum ostentat potens intellectus inventoris parum adhuc in usu est. Vires non ulterius quam primum quatuor operationibus arithmeticis supplicium, et quidem non solum in re duo prima, quia sunt ex serie multiplicatio et divisio adiici, detrahi. Usque tantum machinae maxime principalis Incommodum est quod homo agens requiritur interventus moderari motus continuus, et ex hoc fonte errorum; ut, si usus non magna numerorum ratione generali, quia non est res, quae quidem est duplex quaestio resolvitur, ut nulla in rectitudinem unitum tempus elit.\n\nTimuerunt eiusmodi cogitationibus Babbage Dominus contulit ad consequendum finem annorum foederabuntur ingens elit. Minus sibi proposuit machinae constructione arithmetica ratione non possit exequi, sed etiam omnes analytica si leges cognoscantur. Imaginatio est idea primum obstupefacti tantae tuae famosisque laboribus; sed reflectit donavit sedatior, minus bene videtur impossibile, ut reputetur et inventione pendet ex generali principio, quod, si de machinatione illa translatione possit mechanice quae res illi algebraicis mentione indicatur. Bene Inclyti inventorem fuisse sententiam de hac re mecum communicare cum ad visendum eum Turin, non cum adsensu audita animus coniectas impressiones relictae sunt. Lectorem non expectem sed descriptio D. Babbage scriptor machinam; quod sequeretur fuse studia cognitione; tantum dare conabimur et finis intuitu, ut summum bonum, quo principia ex quibus formabit"
+  },
+  "automaticallyDrawOnUnderlyingPath": false,
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F415D624-DFAB-404F-9869-FDFB36B24C4C",
+  "dontSynchroniseWithSymbol": false,
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 525,
+    "width": 677.9765625,
+    "x": 204.83203125,
+    "y": 266
+  },
+  "glyphBounds": "{{0, 0}, {8846, 336}}",
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "lineSpacingBehaviour": 2,
+  "name": "Labores variis scien",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "sharedStyleID": "47B2D3EC-0454-4015-9787-13ED797071F7",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E7E8863E-D608-4FFC-BB1E-A1014D89955D",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "textStyle": {
+      "_class": "textStyle",
+      "encodedAttributes": {
+        "MSAttributedStringColorAttribute": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.3725490196,
+          "green": 0.3725490196,
+          "red": 0.3725490196
+        },
+        "MSAttributedStringFontAttribute": {
+          "_class": "fontDescriptor",
+          "attributes": {
+            "name": "OpenSans",
+            "size": 14
+          }
+        },
+        "kerning": 0,
+        "paragraphStyle": {
+          "_class": "paragraphStyle",
+          "alignment": 0,
+          "allowsDefaultTighteningForTruncation": 0,
+          "maximumLineHeight": 21,
+          "minimumLineHeight": 21
+        }
+      },
+      "verticalAlignment": 0
+    },
+    "windingRule": 1
+  },
+  "textBehaviour": 1
+}

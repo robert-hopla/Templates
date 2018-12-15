@@ -1,0 +1,76 @@
+{
+  "_class": "shapeGroup",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "9A6234D4-AE68-4CAE-B02D-4873DBB8C2D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BA6A8503-3B63-4C2D-950E-2C543761C4E7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "31D54F0C-5ADD-4148-BF4F-FD6AB03F45E4",
+    "height": 15.7187499999999,
+    "width": 15.7187499999999,
+    "x": 0.08984375000004974,
+    "y": 1.120117187500107
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "5FF009A4-4C1A-4E58-936F-D532B667CDB9"
+    },
+    {
+      "class": "shapePath",
+      "id": "CD2FDAAC-77A0-4AC7-B196-5743A87FE0FD"
+    }
+  ],
+  "name": "Checkbox",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "06B25EE3-3C1E-4C81-87E0-FC6110EC15C7",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.5058823529411764,
+          "green": 0.4666666666666667,
+          "red": 0.4274509803921568
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 0
+  },
+  "windingRule": 0
+}

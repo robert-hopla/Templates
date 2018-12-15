@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9B114222-91ED-45CF-A8B1-5DB0A6833E0D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E0569FD3-8D71-4055-B305-256CE4658517",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "88C2F392-D596-4334-BC00-8183BA751BCE",
+    "height": 27,
+    "width": 61,
+    "x": 0.1072235107421875,
+    "y": 1.068252595960757
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "CFA8C154-B633-4ADA-B6FA-0983B0C89698"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "08C8F5A9-D030-4BDE-A536-18E362CBD726"
+    }
+  ],
+  "name": "Right Button Tint",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "9B67FE45-6A33-4155-8298-9BF721D86CBD",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

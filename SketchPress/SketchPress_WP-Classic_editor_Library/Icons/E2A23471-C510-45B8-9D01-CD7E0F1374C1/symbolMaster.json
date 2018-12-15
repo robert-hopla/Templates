@@ -1,0 +1,87 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "9343C039-A58C-4F36-AAE5-97BA12A856FC",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 126,
+  "clippingMaskMode": 0,
+  "do_objectID": "E2A23471-C510-45B8-9D01-CD7E0F1374C1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9C1DFE46-8F67-4D4B-A707-771718261859",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "023B5184-21D9-4DCB-8869-9864D27B9280",
+    "height": 21,
+    "width": 21,
+    "x": -33,
+    "y": 932
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "376BEC0F-001E-4EBA-863B-18923D3016B4",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "79CEED1A-2C60-4805-BFB6-C2C27F9F2A07"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B3BCFED8-E7D3-4765-AB35-49F642D0D80C"
+    }
+  ],
+  "name": "dashicon/product/screen-options",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6BA21BEC-326D-4AB4-B9DA-93BB453152E6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "14564BB6-8C3D-4C22-854E-20C50BD348B4",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "66B43725-61DA-4294-9ABB-1497726BB9BE",
+    "guides": [
+    ]
+  }
+}

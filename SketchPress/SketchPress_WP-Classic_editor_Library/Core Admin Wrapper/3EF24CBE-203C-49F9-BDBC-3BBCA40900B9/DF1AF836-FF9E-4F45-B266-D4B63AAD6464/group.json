@@ -1,0 +1,132 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "DF1AF836-FF9E-4F45-B266-D4B63AAD6464",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C0963D0-08A8-49E0-82D1-F681E80A9706",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "528594B5-8C97-48E6-9BBC-4E9E8096ADBF",
+    "height": 992,
+    "width": 160,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F47A5D4F-2445-49F4-A05F-BBEE5CFC4497"
+    },
+    {
+      "class": "group",
+      "id": "5A82C8EF-278A-4AAC-AEFB-682CD62A042E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F145E6DF-9B58-4F02-BC8B-DCFFDE8F8916"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "14ACA6A6-16DD-4436-8DBC-25B1BBDA11F9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "19DEA46D-2936-4568-916A-F529101E2747"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3E85F0A4-ABED-4628-AFD9-3A15C8B824E2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1C22B68B-EC30-431E-BC76-21F12142C364"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "F756EB66-E8B7-4989-AF06-6AAD6EEDF3E9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A892216D-29C5-4B01-ADBF-1AC554696F6F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3690D44D-6995-4D32-B0FC-B8977D78581F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "3A640CFD-B4D0-4E6F-AF26-0888714548BB"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A2247D33-A106-43B4-9E9E-A161F4A500D1"
+    }
+  ],
+  "name": "Core / admin nav-desktop",
+  "nameIsFixed": true,
+  "resizingConstraint": 18,
+  "resizingType": 2,
+  "rotation": 0,
+  "sharedStyleID": "547863D8-4CB7-4BF4-9ED4-43ED762C4B66",
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.592,
+          "green": 0.592,
+          "red": 0.592
+        },
+        "fillType": 0,
+        "isEnabled": false,
+        "position": 1,
+        "thickness": 1
+      }
+    ],
+    "do_objectID": "50A8B165-7B30-4C06-911F-20A3FE2BF7DF",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 0.1764705882352941,
+          "green": 0.1568627450980392,
+          "red": 0.1372549019607843
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 0,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "BD0FFEA9-FA9A-40E2-89BD-DE7E4AF0F49B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "8B3317C5-EA28-41E4-845A-2594FA662D7C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "153154CE-131C-4034-B30E-8795708B4128",
+    "height": 17,
+    "width": 191,
+    "x": 10,
+    "y": 134
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "5B5DAA04-98EF-4333-B25E-D799474DBD28"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "62599CFD-2624-4CB9-A64C-A6D77703C258"
+    }
+  ],
+  "name": "Convert to Reusable Block",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "87A2EC7F-9F12-498A-BF9B-BCD97838D562",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

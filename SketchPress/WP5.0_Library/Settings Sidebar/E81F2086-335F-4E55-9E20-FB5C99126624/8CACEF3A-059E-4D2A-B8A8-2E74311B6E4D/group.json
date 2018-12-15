@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "8CACEF3A-059E-4D2A-B8A8-2E74311B6E4D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CAF150EB-203D-4CCA-9CF3-AEF4148F5303",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CC2A62DB-378D-4C72-827B-9A5DC8014871",
+    "height": 18,
+    "width": 247,
+    "x": 17,
+    "y": 227
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "352639A8-097B-4CB6-94B2-79CDDFC6154C"
+    },
+    {
+      "class": "group",
+      "id": "5BDB75E9-0146-40AB-915B-AD10AF5DEAB0"
+    }
+  ],
+  "name": "Stick to the front page",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8CADDB1B-DD59-4802-83FB-BF9D35A754C7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

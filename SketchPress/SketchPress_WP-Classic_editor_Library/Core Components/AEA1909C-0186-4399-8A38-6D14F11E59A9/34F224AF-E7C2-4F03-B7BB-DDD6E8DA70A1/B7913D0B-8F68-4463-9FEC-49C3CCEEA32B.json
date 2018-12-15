@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B7913D0B-8F68-4463-9FEC-49C3CCEEA32B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F638DEF5-D9F6-4408-8165-04A1CDF792C0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "83D2E588-03FF-4655-816A-15F0808E9DE4",
+    "height": 22,
+    "width": 22.62694379331962,
+    "x": 149.6730064597277,
+    "y": 0.7309462177763635
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashicon/posts-screen/edit",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "408562D7-93DB-40CD-BAC8-835CC35DD691",
+      "overrideName": "44D8C247-D5F6-4C76-8C00-AAC12528C4CC_symbolID",
+      "value": "B2D655A6-143E-435C-A9A8-5BED86F0410F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7D9878C8-3FA5-4544-A36D-F7623BEFA704",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BD98CE1F-9A78-464D-95A6-71F6BD2812D2",
+  "verticalSpacing": 0
+}

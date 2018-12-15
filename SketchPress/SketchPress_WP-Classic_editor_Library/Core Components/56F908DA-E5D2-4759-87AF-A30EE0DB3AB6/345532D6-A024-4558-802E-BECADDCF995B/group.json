@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "345532D6-A024-4558-802E-BECADDCF995B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "646AEBF9-6251-4286-A3BB-43A3269F915D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "F482A1CB-ED49-4BCA-854B-6EC6D7182E69",
+    "height": 27,
+    "width": 53,
+    "x": 1.000000000000004,
+    "y": 4.100000023841854
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "738BE5EF-CA9D-4F5B-9A68-963D37EF04C2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "171CFBC1-FA37-4EBA-8E87-86F2689C5C9C"
+    }
+  ],
+  "name": "Left Button Tint",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 180,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4AD72878-F3A1-4B6D-A61B-D944ACA122D0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

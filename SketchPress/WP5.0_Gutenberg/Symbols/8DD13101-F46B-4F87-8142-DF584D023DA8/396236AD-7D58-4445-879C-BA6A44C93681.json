@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "396236AD-7D58-4445-879C-BA6A44C93681",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C00D0122-E8DE-4580-ACCF-1AD8688FD66A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "289586CD-ED88-4868-9966-5C400A34190C",
+    "height": 46,
+    "width": 280,
+    "x": 0,
+    "y": 437.9912109375
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gutenberg/Side Bar Settings/Expand Box Copy 2",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E40C4D3B-0AAA-4617-A758-BF563B7B8DCD",
+      "overrideName": "993602C3-46B5-49D2-BB8B-58A82F5CF103_stringValue",
+      "value": "Featured Image"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "1AA2ECA8-97B3-4C2C-B621-943C1E92EAFA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "66B697F5-192F-4D62-BF55-38C697AF11C1",
+  "verticalSpacing": 0
+}

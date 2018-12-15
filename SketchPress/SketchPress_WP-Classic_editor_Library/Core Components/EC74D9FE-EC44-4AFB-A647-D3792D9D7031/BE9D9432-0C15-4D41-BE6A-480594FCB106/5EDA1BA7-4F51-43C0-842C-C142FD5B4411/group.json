@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5EDA1BA7-4F51-43C0-842C-C142FD5B4411",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "4C409596-D021-42B4-90B9-AF50F9569B18",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "CE5C6A17-783A-463A-BAC3-C2217B1034E5",
+    "height": 35,
+    "width": 338,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "42CAC272-4EA7-4CE4-BFBC-9FA002E36044"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B7936800-3196-4B5D-AA2F-681D3C08AA42"
+    },
+    {
+      "class": "text",
+      "id": "2F0C2786-588B-4AFC-86CB-1600DB9E6181"
+    }
+  ],
+  "name": "Meta box header",
+  "nameIsFixed": true,
+  "resizingConstraint": 10,
+  "resizingType": 2,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "2E945DE7-796D-44EE-AF6E-C6E88016AB09",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

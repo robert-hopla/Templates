@@ -1,0 +1,121 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 3493,
+  "clippingMaskMode": 0,
+  "do_objectID": "468769D4-89AE-4513-8FCF-15316520513C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 55,
+    "width": 1280,
+    "x": 5819,
+    "y": -223
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "27D90F42-0664-4F23-8D02-1EA079F3479A"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "7EA7FA7A-FF84-45D4-86C6-643E916F8AED"
+    },
+    {
+      "class": "group",
+      "id": "43A2AB45-1864-449F-8B68-0EFBCD46E546"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0D9067ED-2406-40A0-A094-8A6C5CBA8565"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "606CF80C-F971-4CA2-80CD-1152AD6F11A0"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8676B953-2876-4D72-9A3D-9048D4832DB5"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A0C0367D-7FC7-47A1-BEE6-97AB96BC5121"
+    },
+    {
+      "class": "group",
+      "id": "0CEEBB75-75D8-4763-9E11-928A7AB06A68"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5CB089FE-4F7C-460E-9D80-126C790304B6"
+    },
+    {
+      "class": "rectangle",
+      "id": "BDF4319A-A3C9-4326-8EC5-8ED8FF837FC1"
+    },
+    {
+      "class": "text",
+      "id": "EDAC6DC6-AAA6-4515-8C62-6FE18C91C3C8"
+    },
+    {
+      "class": "group",
+      "id": "4F7B788D-FD4E-491F-8C69-0B3E6E23A8B4"
+    }
+  ],
+  "name": "Gutenberg/Core/Publish-Title",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "2CCDD94C-819E-467F-9936-F25D7B79ECF1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

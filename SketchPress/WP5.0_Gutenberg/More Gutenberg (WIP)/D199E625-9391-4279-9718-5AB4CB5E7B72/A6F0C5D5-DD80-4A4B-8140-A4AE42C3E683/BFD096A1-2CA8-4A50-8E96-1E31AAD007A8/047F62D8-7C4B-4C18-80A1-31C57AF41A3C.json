@@ -1,0 +1,62 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "047F62D8-7C4B-4C18-80A1-31C57AF41A3C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "33973B09-36A2-4CCF-BB1E-42A360C65128",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "DDCF69F6-57F2-4217-8229-2B4C74A1BA15",
+    "height": 22,
+    "width": 40,
+    "x": 89,
+    "y": 58
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "UI Widget / Switch",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "D493F3FC-273D-4578-AF0B-8E7E906CEE2C/82EC5F11-E3B3-4D52-B817-7D7824FF5892_symbolID",
+      "value": "92E631D3-5B31-4C8F-801E-F1BFE8E94DAC"
+    },
+    {
+      "_class": "overrideValue",
+      "overrideName": "D493F3FC-273D-4578-AF0B-8E7E906CEE2C/3C823891-DDE0-4482-B45E-EBCEBF536FC1_symbolID",
+      "value": "92E631D3-5B31-4C8F-801E-F1BFE8E94DAC"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C990A845-56A6-4B98-908C-0DC82D3D6E7B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "DDB589B3-C988-4D3A-9732-DDC1523F45F5",
+  "verticalSpacing": 0
+}

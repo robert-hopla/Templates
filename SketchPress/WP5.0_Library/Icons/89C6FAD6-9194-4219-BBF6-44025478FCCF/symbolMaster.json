@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "C9A3814B-E386-4593-8E6C-A4E45FCC0971",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 236,
+  "clippingMaskMode": 0,
+  "do_objectID": "89C6FAD6-9194-4219-BBF6-44025478FCCF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "72F411B3-670B-4A1B-ADC7-00267864CE3E",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EB1B2191-DB91-4171-B667-8150936A344F",
+    "height": 18,
+    "width": 18,
+    "x": -407,
+    "y": -934
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E461568F-6A2B-415E-BDCE-BEA7047BDE63",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "E768ED6F-BF9E-4001-B575-89C069614DC0"
+    }
+  ],
+  "name": "Icon/Paragraph",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D4AB8DCE-3E15-47D7-9C29-290BE2658217",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "41EA6678-3DFF-4E4C-BF46-6D0A7DC056A9",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "2ABAAD14-2E0D-4553-8E30-0C646B2B99B5",
+    "guides": [
+    ]
+  }
+}

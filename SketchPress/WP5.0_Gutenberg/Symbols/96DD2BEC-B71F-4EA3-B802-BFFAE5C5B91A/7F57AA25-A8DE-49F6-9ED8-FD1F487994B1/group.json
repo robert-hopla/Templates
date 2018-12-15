@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "7F57AA25-A8DE-49F6-9ED8-FD1F487994B1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "A1301FE0-6A02-455A-87A3-108DC6CBEA17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6369E4B6-F559-4985-9FF1-463E48250539",
+    "height": 35,
+    "width": 352,
+    "x": 0,
+    "y": 6.12890625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "233C9080-B7CA-469D-9D07-96A003AB933A"
+    },
+    {
+      "class": "text",
+      "id": "D9B1B447-9404-4D83-9B07-271E5D462301"
+    }
+  ],
+  "name": "Search Text Input Field",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "6A5FE366-1D25-4582-A4EA-FB564D97C16E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

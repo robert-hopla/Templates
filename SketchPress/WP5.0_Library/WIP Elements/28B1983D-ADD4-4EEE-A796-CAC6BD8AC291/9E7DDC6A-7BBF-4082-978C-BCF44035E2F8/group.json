@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "9E7DDC6A-7BBF-4082-978C-BCF44035E2F8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0EC4D24A-C602-4A0A-A4C4-7F444B629493",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "C34B23B4-DF04-4A5A-B102-A24181891D25",
+    "height": 21,
+    "width": 121,
+    "x": 11,
+    "y": 381
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "0546974F-62AA-4C88-BE8C-9E8CE7EE7072"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "12B8276E-524E-4733-A626-D4C8EFC3E72E"
+    }
+  ],
+  "name": "Turn Into Verse",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3BE6030F-49DD-4572-B038-01000C21252B",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

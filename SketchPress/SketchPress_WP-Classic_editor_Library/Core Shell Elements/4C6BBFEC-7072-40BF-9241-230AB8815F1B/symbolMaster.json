@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D7ADBC86-CE82-4CC7-89A6-79017E977F9E",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 295,
+  "clippingMaskMode": 0,
+  "do_objectID": "4C6BBFEC-7072-40BF-9241-230AB8815F1B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "CB7FF405-6DE5-4DCB-8190-B64460D6E747",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2E903EC7-5E0C-416B-B544-F6847B680E43",
+    "height": 28,
+    "width": 74,
+    "x": -180,
+    "y": 461
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DF8206B8-2147-4DD5-A0DC-4368E1676B46",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "343C488F-F978-4247-B385-FF5D37D46E69"
+    }
+  ],
+  "name": "core/shell/contextual-help",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E46C78BB-EF44-41EE-B173-593B3CAA4800",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8DD71162-B744-45D6-BE4D-EC340C39245D",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "7AD54270-1994-4FD8-AE6F-7F25D9A67B32",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "AB06180D-7222-4CB1-A5C5-93571A2782FB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "763C6992-1D03-44BD-88BB-E76216E20017",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5212B2E4-C30F-4BFB-93C4-386327DD19A0",
+    "height": 18,
+    "width": 20,
+    "x": 0.2482289247358267,
+    "y": 0.008887079940222975
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashicon/editor/bullet-list",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "962C9EF6-EAC6-49A4-B060-F28A5DF5CCD4",
+      "overrideName": "1ABEB7E9-67A8-42C3-AD0F-5ADD32930AC4_symbolID",
+      "value": "B2D655A6-143E-435C-A9A8-5BED86F0410F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C72E5FD0-EF8D-45A7-9314-123B56523901",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "82A9C40C-20DC-4CE4-B667-12E3AB67CC13",
+  "verticalSpacing": 0
+}

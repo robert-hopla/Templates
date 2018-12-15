@@ -1,0 +1,111 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "992B4A09-5609-4F1C-9B6D-D0DA46A0084C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 14221,
+  "clippingMaskMode": 0,
+  "do_objectID": "91034E73-FF8B-4813-838C-1C5FD95E9097",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "49E4F756-D1B8-4A55-85DF-B29918718C77",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A086D21E-2611-44D8-A78F-789FA75AA23D",
+    "height": 632,
+    "width": 280,
+    "x": -260,
+    "y": -454
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8B8BA0AA-F4BB-4C19-8186-2CF1DADD34A5",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "AEF24FFA-D0C5-4C2D-8F70-FF1ED8AEE480"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FBEE2316-7670-497E-9A50-857D5AA0D02E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D3CC611A-E247-4E85-9132-CD5D10EEFEA4"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D575D732-225A-415F-94DB-792B810ACC9F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AB8CC3AD-3920-43E7-94F1-8E1144BC25D5"
+    },
+    {
+      "class": "group",
+      "id": "0B298C00-679E-4ED7-AF86-156B6DC59659"
+    },
+    {
+      "class": "group",
+      "id": "E8F848B2-3252-4E8A-88E2-518E7039F6F0"
+    },
+    {
+      "class": "group",
+      "id": "E8D99A79-1086-4D59-88D4-2351C5C322BE"
+    }
+  ],
+  "name": "Sidebar/Document/Published",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "27ED111D-5DFE-4F3C-8586-3474C0B8F316",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "43CFE144-D479-442A-9F08-C3FE7C0B3892",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "12AB4F61-9D11-47BB-8AC5-96FC4B4F86A0",
+    "guides": [
+    ]
+  }
+}

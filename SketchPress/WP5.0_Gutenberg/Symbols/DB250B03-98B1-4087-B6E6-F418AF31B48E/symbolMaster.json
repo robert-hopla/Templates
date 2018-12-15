@@ -1,0 +1,141 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 482,
+  "clippingMaskMode": 0,
+  "do_objectID": "DB250B03-98B1-4087-B6E6-F418AF31B48E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 992,
+    "width": 327,
+    "x": -39,
+    "y": -497
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "863D351A-F36A-4661-95CB-F44119EB6570"
+    },
+    {
+      "class": "group",
+      "id": "07A53E56-CE68-43F9-89CD-751F92C4527F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "422126CD-8755-40FF-9B4A-71AB72CBC884"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "1462D51B-0594-47BD-97B1-40C5900FC13F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "BE7F4188-4B0B-4EA2-A24F-5CA8E5BF6AE6"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "9784A731-567D-4A75-8FFE-074B85606938"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DF888C1B-25CF-40A5-81CF-E443C02E7144"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DAB7B72F-8A55-4FE8-89C0-6F8EEE4EBDAA"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A08BC6CC-8BCD-41C9-9B4B-BDBC4201A155"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "AD77A406-8715-44D2-9ACA-FDE4E487AAF7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "17A29F1E-AAE7-4107-AD75-AB5E72146678"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A04D6FB5-C76C-43B3-A45C-AD189DF9E2C7"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8E2035FF-7399-4559-8990-DDAF9E88FB4C"
+    },
+    {
+      "class": "rectangle",
+      "id": "93A1676C-D0C2-4EE3-8B89-EBFACAC386CF"
+    },
+    {
+      "class": "shapePath",
+      "id": "53A9B1D2-5AAC-431A-8605-026FDF150293"
+    },
+    {
+      "class": "text",
+      "id": "14D720E2-A645-40B7-8F00-8845226A2506"
+    },
+    {
+      "class": "text",
+      "id": "759FA97B-9127-4E5C-8505-A16C5ECCA043"
+    }
+  ],
+  "name": "core/shell/admin-nav/hover",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1DBE4D4B-A6B6-49FE-BC26-1A07505FE782",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

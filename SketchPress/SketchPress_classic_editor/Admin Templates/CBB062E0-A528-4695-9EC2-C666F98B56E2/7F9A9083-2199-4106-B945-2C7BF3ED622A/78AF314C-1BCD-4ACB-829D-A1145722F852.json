@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "78AF314C-1BCD-4ACB-829D-A1145722F852",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2F033CB6-A144-4B9B-954B-CBE2076A469A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5812A4DE-8A73-452C-BD40-08A19DCF080A",
+    "height": 28,
+    "width": 68,
+    "x": 199,
+    "y": 11.39122068652819
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "core/buttons/primary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E2192FA4-9966-427D-B423-4BA6E3A424D9",
+      "overrideName": "CD7F533C-4731-4325-B5DF-B218245B1609_stringValue",
+      "value": "Update"
+    }
+  ],
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8C0DB29A-322A-4BBB-AF98-725E88532A4A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C1FBC1FB-8285-4B16-91A1-7708F325184A",
+  "verticalSpacing": 0
+}

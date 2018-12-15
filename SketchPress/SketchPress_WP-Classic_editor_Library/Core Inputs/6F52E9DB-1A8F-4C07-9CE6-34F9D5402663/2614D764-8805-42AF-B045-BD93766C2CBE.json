@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2614D764-8805-42AF-B045-BD93766C2CBE",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "C3C38EA5-3D8B-4CAD-921B-D8043894F823",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "81851533-21D7-4041-BF9A-7ED2891AC44F",
+    "height": 20,
+    "width": 20,
+    "x": -2,
+    "y": -2
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "icon/notifications/yes-tintable",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5CEBDEE9-5CD6-41CF-AED3-5C255ACA51F2",
+      "overrideName": "9012ECE5-121C-47E7-8235-982EFC4DABA2_symbolID",
+      "value": "C6EC8567-4B2E-4643-857B-080455917496"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "B87F6EE5-EB7C-43FE-9885-4BA09721A086",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "54C00046-51A9-42C9-A6AC-2357E0AE7918",
+  "verticalSpacing": 0
+}

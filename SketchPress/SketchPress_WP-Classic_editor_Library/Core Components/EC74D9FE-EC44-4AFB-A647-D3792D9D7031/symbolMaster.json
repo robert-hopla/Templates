@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "CC481B2F-D883-4AE8-9B2B-61F5203EE7A6",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 5,
+  "clippingMaskMode": 0,
+  "do_objectID": "EC74D9FE-EC44-4AFB-A647-D3792D9D7031",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B0A031E2-38D1-43A3-A85C-49EC68ECA6D3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2CE3720F-277F-4226-B06B-77AA6299CD9D",
+    "height": 217,
+    "width": 338,
+    "x": -535,
+    "y": 370
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "368A78E6-D877-4CE6-ABAC-01A2C59AF766",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "BE9D9432-0C15-4D41-BE6A-480594FCB106"
+    }
+  ],
+  "name": "core/components/meta box",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E78C9AD9-2AF8-4118-8463-220956DF17F6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "10BAC7B9-19B0-457C-8FC9-2386C50BF450",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "DCA2661A-011E-4CCD-8869-7674143C43CE",
+    "guides": [
+    ]
+  }
+}

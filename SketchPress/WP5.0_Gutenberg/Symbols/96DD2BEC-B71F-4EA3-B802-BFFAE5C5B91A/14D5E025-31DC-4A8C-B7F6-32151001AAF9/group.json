@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "14D5E025-31DC-4A8C-B7F6-32151001AAF9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B3628D1A-0738-4C3A-9F91-A6F75289F4C8",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "756633C2-25D9-4C50-A018-127FE901C445",
+    "height": 72,
+    "width": 101,
+    "x": 124,
+    "y": 181.12890625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "47B95B78-6BB3-4946-AFD2-AC62C6B8CC3A"
+    },
+    {
+      "class": "text",
+      "id": "78ED3505-BE7E-4C3C-B6C2-D31A7159B675"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FAA41B33-FCD3-45A9-BA1D-4C702BB1591E"
+    }
+  ],
+  "name": "Quote Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FF5DC1D4-BECD-4594-AC53-36D9DCC54E28",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

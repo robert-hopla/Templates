@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "EAF8C69F-C1DE-4077-A522-EEDF8D280ACA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7FCEE52C-898D-427D-8512-1FAAEE75284C",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "770DCD2D-B4CC-4260-B9BE-97113898A746",
+    "height": 20,
+    "width": 20,
+    "x": 231,
+    "y": 0
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Caret Copy 6",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "C7F36382-66E4-4F62-9FD3-B3BBDAC60C57_symbolID",
+      "value": "F7CFF174-1399-4971-8EBE-235FD5BFD770"
+    }
+  ],
+  "resizingConstraint": 44,
+  "resizingType": 1,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "26B85192-3C8D-487B-82EC-DAC9A0E0703E",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8EDF5B58-6F4B-45A7-8EDB-CD720410D50E",
+  "verticalSpacing": 0
+}

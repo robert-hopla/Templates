@@ -1,0 +1,126 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.9450980392156862,
+    "green": 0.9450980392156862,
+    "red": 0.9450980392156862
+  },
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "D8B94EE2-3898-48BD-B8BB-43FCB87527D5",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 705,
+    "width": 1280,
+    "x": 2923,
+    "y": 5639
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+      184,
+      1256
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "5BA2516E-7230-42E9-AAC0-4A2955CEC408"
+    },
+    {
+      "class": "text",
+      "id": "A5D9DCA6-EFDF-48EA-9AA9-4D424584A96B"
+    },
+    {
+      "class": "group",
+      "id": "A693AD7A-2709-47A0-926D-90E0496D6657"
+    },
+    {
+      "class": "text",
+      "id": "B7F9EA78-1ACE-4FBB-8371-A5F1D3EE698C"
+    },
+    {
+      "class": "group",
+      "id": "F8773CF5-BDF0-4777-B597-3242020CD852"
+    },
+    {
+      "class": "group",
+      "id": "05C2D6B8-61BB-4ABF-9609-FDB8D5649057"
+    },
+    {
+      "class": "group",
+      "id": "E23D9C89-FF76-4281-A3AD-195E6C2E7417"
+    },
+    {
+      "class": "text",
+      "id": "1A43434E-A85A-415B-95E7-D7EC63532294"
+    },
+    {
+      "class": "group",
+      "id": "436C4A24-BFE7-4442-B034-D77E83B52753"
+    }
+  ],
+  "name": "Comments: Quick Edit",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

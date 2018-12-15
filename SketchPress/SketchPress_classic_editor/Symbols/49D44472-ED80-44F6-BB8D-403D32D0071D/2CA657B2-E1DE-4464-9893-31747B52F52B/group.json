@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2CA657B2-E1DE-4464-9893-31747B52F52B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 70,
+    "width": 762,
+    "x": 0,
+    "y": 32
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "1FBEECB6-85CE-4CAB-8AA4-7A5D420E970E"
+    },
+    {
+      "class": "group",
+      "id": "448DB95D-62C6-40BA-A159-FBF78DAB05BC"
+    },
+    {
+      "class": "group",
+      "id": "10856651-F3E7-49C5-A2CD-0710F0208620"
+    },
+    {
+      "class": "group",
+      "id": "4E7806CB-66C5-47E4-B7C5-385B734CFA94"
+    },
+    {
+      "class": "group",
+      "id": "C64D5B6E-F5F0-4A56-A537-1BE32874BD0F"
+    }
+  ],
+  "name": "Expanded Menu Options",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

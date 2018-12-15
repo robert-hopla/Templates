@@ -1,0 +1,109 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 0.3160607993197279,
+    "do_objectID": "4D502E9B-15EF-4074-9886-E45CD781DD52",
+    "green": 0.2276821746352041,
+    "red": 0.1630997933989529
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 5801,
+  "clippingMaskMode": 0,
+  "do_objectID": "D8B2F811-3C50-493B-9C13-510E511A29FA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "46ABD408-C787-483D-85F8-A9A62F1583EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "4F2FAE1A-3C93-4DB4-896E-8B4C899D5565",
+    "height": 505,
+    "width": 280,
+    "x": -659,
+    "y": 1784
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "563DF493-6292-4DEF-BB3D-3A9F2C64D2C2",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FE17223A-17D4-4EAF-B366-31A2F0E7E6BB"
+    },
+    {
+      "class": "group",
+      "id": "EE077F12-D8A0-42A7-9F59-C69281A42AE0"
+    },
+    {
+      "class": "group",
+      "id": "E7600114-5F81-47BC-BE73-03032DAF9E58"
+    }
+  ],
+  "name": "Gutenberg/Core/Publish/Meta-box-block-heading",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3B1E2CD4-BF2A-41B6-BA07-DFE400F4E324",
+    "endMarkerType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EEA5A569-E0AD-4DAD-B058-5BABEE7045AF",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "E5C309AB-61C0-4125-B72B-9775B0039C8F",
+    "guides": [
+    ]
+  }
+}

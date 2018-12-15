@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "F1AB14BB-A70F-4662-B9AD-3DFC1DD8E098",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 718,
+  "clippingMaskMode": 0,
+  "do_objectID": "A89548B9-61A5-4625-8E10-37DF36A15D78",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D24FDF65-9D69-4D86-AACA-F681C788556F",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CF4C628-31A9-4E66-A52C-F3B66AF37611",
+    "height": 16,
+    "width": 17,
+    "x": 1841,
+    "y": -250
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0D247A40-B8BE-4F47-9F0D-A2D23D84C7A7",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B76A89E7-883C-4549-9BAC-40C6F277A4F8"
+    }
+  ],
+  "name": "Gutenberg/Icons/Undo",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "74B2E49C-DFF7-4F19-8FBD-CCA9761D7C46",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7579CD7E-468A-42EC-9987-15C24A2466C1",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "D337EDC1-AFE3-42C9-8529-CBAD200AA554",
+    "guides": [
+    ]
+  }
+}

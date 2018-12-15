@@ -1,0 +1,70 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "B384EAD0-E4F5-46E8-8945-3BB140B5BB2E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 235,
+    "width": 1072,
+    "x": 184,
+    "y": 119
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F8D57355-30B9-4A33-A5B6-6568A8E6D22C"
+    },
+    {
+      "class": "group",
+      "id": "76E61ED1-558A-4F57-B736-C5D13F746327"
+    },
+    {
+      "class": "group",
+      "id": "4BFF8BE3-1644-4BBC-A392-CFBC004D4B2E"
+    },
+    {
+      "class": "group",
+      "id": "0A1EE7E3-E673-4AB3-9056-EC5AB34D4DB0"
+    },
+    {
+      "class": "group",
+      "id": "203450BE-10A3-4C29-8DFC-DAFF552B7F88"
+    },
+    {
+      "class": "group",
+      "id": "3677E9B3-B5F2-4D33-B9AD-25F5B90973A0"
+    }
+  ],
+  "name": "Welcome Widget",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

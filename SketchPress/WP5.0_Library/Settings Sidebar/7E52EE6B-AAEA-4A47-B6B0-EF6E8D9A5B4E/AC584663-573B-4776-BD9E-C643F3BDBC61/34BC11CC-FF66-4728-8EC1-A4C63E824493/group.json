@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "34BC11CC-FF66-4728-8EC1-A4C63E824493",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "88B9E06D-43AD-4DA6-B4FE-AD65DF825F1A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FC7B05E7-CF31-4A74-9B6A-95C702932B01",
+    "height": 29,
+    "width": 250,
+    "x": 17,
+    "y": 142
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "B6039C06-F0B9-493C-804D-19EBA2BE1242"
+    },
+    {
+      "class": "text",
+      "id": "BBEC6DF4-1F2B-4A83-B369-EF3D3C6DE3E6"
+    }
+  ],
+  "name": "Post Format",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E75497C-51B4-4E24-A79B-9EECD3BD7C89",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

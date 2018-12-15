@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "479677B9-FF89-4609-AE4E-642DE0A65BB4",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "70778BA1-A9B8-425D-8C6C-4568E2E0B086",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "9EB1295A-09F8-4686-8AEF-341DC11D6D76",
+    "height": 38,
+    "width": 15,
+    "x": 0.767578125,
+    "y": 48.18896484375
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "8218F72F-E12F-414C-9430-8A25EE98C7C9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "432C54D0-3862-4FC5-9B87-5C66DE7CC155"
+    }
+  ],
+  "name": "Move Up or Down",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "352FF94B-C671-4582-B6FD-7E37B36AD801",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

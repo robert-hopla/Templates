@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "1BA7E6F8-94B5-4CB2-BDD5-570869A4B553",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 117,
+  "clippingMaskMode": 0,
+  "do_objectID": "0E6395E6-99CF-48D9-92F6-1F39E3574C0F",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "554B6A6F-3502-4B5F-80D3-84F2D56C2C1D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "150E32BD-005B-4B48-B3F5-B51D750FAC4E",
+    "height": 19,
+    "width": 19,
+    "x": -118,
+    "y": -750
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "BC600C19-33B3-48DB-A7BE-B1050FFCA05A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 1,
+  "layers": [
+    {
+      "class": "group",
+      "id": "4A117B26-D9F3-4D6A-ADBF-AD98ED2FB055"
+    }
+  ],
+  "name": "dashicon/admin/generic",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D5C4707B-B4B1-4F40-86D5-69FA20204AFB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "28F74FB9-FF09-4CE4-9D8D-C109C7E884DD",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B1ECE1D0-53D8-4901-8253-B0347A0138DB",
+    "guides": [
+    ]
+  }
+}

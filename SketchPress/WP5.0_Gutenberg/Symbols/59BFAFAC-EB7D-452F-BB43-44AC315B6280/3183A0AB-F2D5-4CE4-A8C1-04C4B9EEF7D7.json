@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "3183A0AB-F2D5-4CE4-A8C1-04C4B9EEF7D7",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B8F245A9-8829-45AD-A57F-5B8302E5F124",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AED28ABB-573E-462C-AF4B-C89910F9C230",
+    "height": 21,
+    "width": 4,
+    "x": 675.767578125,
+    "y": 56.68896484375
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Gutenberg/Icons/More-Options",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7EB927E6-9932-4153-8C2B-E828149B51DA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "535A85EF-D0FB-4634-B489-AD625BB3687D",
+  "verticalSpacing": 0
+}

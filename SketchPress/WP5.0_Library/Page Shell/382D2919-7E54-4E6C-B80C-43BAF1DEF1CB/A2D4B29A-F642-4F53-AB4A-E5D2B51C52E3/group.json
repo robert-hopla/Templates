@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2D4B29A-F642-4F53-AB4A-E5D2B51C52E3",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1C860183-9C3A-45CB-AF39-30DC9657A381",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A56154FF-0D66-406E-B535-57C2FEF2170A",
+    "height": 1029,
+    "width": 281,
+    "x": 1159,
+    "y": 88
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C0CEA8F4-BA73-4CDD-982D-1BCDBDF03D55"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "B4CBD4ED-BC67-482A-8A14-AE2FBA45DE2B"
+    }
+  ],
+  "name": "Side Bar Settings",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "46745F57-49B5-49F5-911B-33BD54C5A3AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

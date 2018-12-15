@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "20AF7CC2-AD95-430A-9FFA-BD09FE041FFC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2E126298-2A2A-4B99-9803-BDE295CC2205",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "AE297FCC-BADB-4C51-AF36-40D4C465E435",
+    "height": 72,
+    "width": 101,
+    "x": 124,
+    "y": 268.12890625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "403C8604-9A1E-4C95-8B8B-DF68618D5104"
+    },
+    {
+      "class": "text",
+      "id": "C83BA01A-8CD6-4804-B4EC-99A34248A682"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "65698ECC-819E-4D6C-B055-A159451957B6"
+    }
+  ],
+  "name": "Spacer Block",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "200652D4-8A04-4667-BA0E-77AB164CA0DB",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "B6EBC066-3E05-4731-9D10-7DB13388BA34",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 520,
+  "clippingMaskMode": 0,
+  "do_objectID": "7FD7969A-118B-48FD-A437-9E4B5A36632C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D7D9FF72-4BC3-46DD-BE39-2CA399DF7D9D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "7D4FEB51-6AB5-4F7F-8EBF-A2926E212107",
+    "height": 16,
+    "width": 17,
+    "x": 1889,
+    "y": -250
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "961C1FE4-D009-40A7-B4EF-7B7C10A9BE0A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "D3E654EB-5B9E-44EF-9ABB-555AC5D5AAA0"
+    }
+  ],
+  "name": "Gutenberg/Icons/Redo",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "FDB6C7FD-BBE4-4055-8910-0DD938E5E063",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "85C9C164-33B9-4D8F-8FFB-3614CFF7DE5B",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "8FC878FC-DC2B-4061-B593-7DFA7CECB120",
+    "guides": [
+    ]
+  }
+}

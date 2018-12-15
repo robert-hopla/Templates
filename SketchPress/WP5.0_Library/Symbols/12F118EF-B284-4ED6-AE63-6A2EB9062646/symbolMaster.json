@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "98AA6C6A-66AA-4ACD-AD9C-9E9E1FDAE46B",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 2908,
+  "clippingMaskMode": 0,
+  "do_objectID": "12F118EF-B284-4ED6-AE63-6A2EB9062646",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FF17BE27-7DA3-4195-AD5D-095251BEBAF4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6D7382E0-68BE-4A80-AD59-9826249ACA2C",
+    "height": 28,
+    "width": 130,
+    "x": 13168,
+    "y": -1234
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "42DE5875-690D-4537-A895-8158AB58911E",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "6BB0F698-5335-4DBA-A5EF-6BBF288742CA"
+    }
+  ],
+  "name": "core/input/text-field",
+  "nameIsFixed": true,
+  "resizesContent": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "0B8DEB97-6FD0-4FAF-9DE1-F4B4FDD3F37C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "532998FE-C426-44F1-8747-A40100453F39",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "B0CC3AFB-D2AB-476E-8E87-38FE17762414",
+    "guides": [
+    ]
+  }
+}

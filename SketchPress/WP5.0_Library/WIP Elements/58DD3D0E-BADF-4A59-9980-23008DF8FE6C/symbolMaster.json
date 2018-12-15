@@ -1,0 +1,83 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "47CBDE8C-EC68-4A4F-89AF-9FF1242444A2",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 427,
+  "clippingMaskMode": 0,
+  "do_objectID": "58DD3D0E-BADF-4A59-9980-23008DF8FE6C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "6412A5BD-53CA-4D4D-BA7F-D484890C5421",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1F1C438E-50BD-4261-95F2-FAAF2D3AFDEA",
+    "height": 19,
+    "width": 19,
+    "x": 1792,
+    "y": -250
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "45CFE9EA-3E92-4B8F-BB9C-39E1317AEF5D",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "group",
+      "id": "EE946A67-5FE7-4141-8222-CD33851EDED3"
+    }
+  ],
+  "name": "Gutenberg/Icons/Add",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EDD4D549-AF6F-405C-901D-233FEAC833B1",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "A427A497-0760-4900-AD31-CCCC1727C094",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0E398ECA-168B-4D86-8FCC-10828A533BBD",
+    "guides": [
+    ]
+  }
+}

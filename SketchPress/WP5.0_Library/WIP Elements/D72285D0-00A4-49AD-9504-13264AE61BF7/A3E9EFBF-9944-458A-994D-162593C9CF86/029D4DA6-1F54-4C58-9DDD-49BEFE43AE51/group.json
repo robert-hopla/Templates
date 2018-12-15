@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "029D4DA6-1F54-4C58-9DDD-49BEFE43AE51",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "06DC20E1-FFEC-48DC-889D-3A4851B139D0",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "00A9EA0A-3562-4E7F-A233-5D84BAABA7EF",
+    "height": 28,
+    "width": 90,
+    "x": 169.4837239583339,
+    "y": 122.7931589112836
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "F47E8EEA-9B35-48B7-BF93-DBC09E770ADB"
+    },
+    {
+      "class": "group",
+      "id": "B7F73B1D-9A94-439B-89A1-E3A4D9B5DB47"
+    }
+  ],
+  "name": "Upload Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C87E2696-BEF3-4415-B23B-974C4C844CD6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "2BB51AF1-EDC3-4795-BC2A-BDC921B18490",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "554064B1-14A6-4CC5-A28F-E29511AB1685",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "34D0D08B-DDBE-47CA-B99E-9412B3F499A8",
+    "height": 27,
+    "width": 69,
+    "x": 969,
+    "y": 227
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "38A915D0-6F57-45D4-9A0C-0F85EC17E2D4"
+    }
+  ],
+  "name": "Update Button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4E578E09-5AFE-4D03-91F9-B2B46EC8811C",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

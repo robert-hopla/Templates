@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "C798EC7E-C7DD-4BA3-AB1B-D928499E054C",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "EA9FD2DF-FEEF-4BE8-B880-9065B3E52094",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E71DB7D9-6732-4873-BD00-2E401A63C08F",
+    "height": 73,
+    "width": 101,
+    "x": 124,
+    "y": 93.12890625
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "575B72FD-DBBB-4A28-8DF0-DE39D7F3F625"
+    },
+    {
+      "class": "text",
+      "id": "94AF65D0-4E7B-43E8-BD1F-3F9FB5A32365"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "0FC126F5-B595-4753-8546-28B0D7F6A2EF"
+    }
+  ],
+  "name": "Image Block",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E44516EE-2C71-45D5-A798-9741E41F4FCA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

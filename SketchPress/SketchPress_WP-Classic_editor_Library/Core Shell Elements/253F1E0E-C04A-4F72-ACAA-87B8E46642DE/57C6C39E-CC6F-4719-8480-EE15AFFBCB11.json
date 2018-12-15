@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "57C6C39E-CC6F-4719-8480-EE15AFFBCB11",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "2D1028A5-DA91-4F0E-8FEC-6DF1AE85D037",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56955BC1-F90D-4FAA-992D-820C8F4C5CD9",
+    "height": 28,
+    "width": 99.1146163024074,
+    "x": 395.2818680725926,
+    "y": 12.6328125
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "core/input/buttons/secondary",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "3CEF6625-7FC5-4C63-9E2B-FD66F5DDF2B7",
+      "overrideName": "93EEF790-6066-4801-A9CF-A0B3261EE232_stringValue",
+      "value": "Bulk Select"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4277F905-4F4F-4D07-A4D6-341F39301AA8",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "53A93631-ED17-473C-B302-642D3934257B",
+  "verticalSpacing": 0
+}

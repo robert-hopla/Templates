@@ -1,0 +1,57 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "F11F5A5A-75A4-44F5-9657-66A5496C9173",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "ABA78DD1-FB04-4BD3-8D46-AB748CD3A121",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "864B1E1E-9C33-489D-AC34-490E074B05D0",
+    "height": 57,
+    "width": 105,
+    "x": 20,
+    "y": 97
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "text",
+      "id": "297385D4-BF11-4185-9F51-2869C1C4C105"
+    },
+    {
+      "class": "group",
+      "id": "8402097F-D34A-4780-8EA2-C6105787F27B"
+    }
+  ],
+  "name": "Text Alignment",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C579CE4F-6149-47ED-9686-B277460282AC",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

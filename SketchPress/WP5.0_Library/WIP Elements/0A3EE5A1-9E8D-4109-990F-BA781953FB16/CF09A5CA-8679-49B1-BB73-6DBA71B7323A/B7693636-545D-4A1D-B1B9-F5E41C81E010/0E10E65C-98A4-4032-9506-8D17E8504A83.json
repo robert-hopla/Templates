@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "0E10E65C-98A4-4032-9506-8D17E8504A83",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "DB4CE7A0-1D84-45DB-A64A-23F14B1A8225",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "66BB1AD5-612C-4FB7-9388-240985828C55",
+    "height": 18,
+    "width": 20,
+    "x": 75.4697265625,
+    "y": 10.11669921875
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "dashicon/editor/strikethrough",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "9D5A0FB1-25D4-4AB9-A2E4-72BBC44F4838",
+      "overrideName": "1CE04457-8239-4170-B333-C6FAE4A6FA7F_symbolID",
+      "value": "B2D655A6-143E-435C-A9A8-5BED86F0410F"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "D2F888E0-2392-41F1-8674-6DD218F5C509",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "C0628FB0-7805-4919-A822-2297BE23EFD3",
+  "verticalSpacing": 0
+}

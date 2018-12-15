@@ -1,0 +1,57 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "5D1AE791-9239-480A-A9F6-2C2658EB2A5D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3C1326F3-7943-46EB-98CD-A97FDB16AAC6",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3948E13B-9A18-40FD-A4EB-F4C00BA6E74D",
+    "height": 16,
+    "width": 16,
+    "x": 0,
+    "y": 2
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "core/input/radio-selected",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "overrideName": "9E53B376-8550-47C9-BE65-31EC6CDCB1DD_symbolID",
+      "value": "25C975E8-6EF3-4837-8044-2F5BB27FFC14"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "15AAB9E7-6922-4B81-A609-82DB27CAE760",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "25C975E8-6EF3-4837-8044-2F5BB27FFC14",
+  "verticalSpacing": 0
+}

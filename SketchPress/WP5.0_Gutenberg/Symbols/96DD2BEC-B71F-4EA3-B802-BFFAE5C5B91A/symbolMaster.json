@@ -1,0 +1,129 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": 0,
+  "changeIdentifier": 1161,
+  "clippingMaskMode": 0,
+  "do_objectID": "96DD2BEC-B71F-4EA3-B802-BFFAE5C5B91A",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 433,
+    "width": 352,
+    "x": 10589,
+    "y": -1283
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "symbolInstance",
+      "id": "ECCF9DE6-A08A-4C3F-8E87-3C1E8A9BA33C"
+    },
+    {
+      "class": "group",
+      "id": "3E56BD43-C535-4E26-AB9A-60EAC9B9597A"
+    },
+    {
+      "class": "rectangle",
+      "id": "8CEDDB5C-F041-42C0-A6E8-4E1E9C8AF4A9"
+    },
+    {
+      "class": "group",
+      "id": "0C8B3A96-BAF4-4CFC-B93A-C53B6DBD983C"
+    },
+    {
+      "class": "group",
+      "id": "20AF7CC2-AD95-430A-9FFA-BD09FE041FFC"
+    },
+    {
+      "class": "group",
+      "id": "DD4478C1-60BD-40EB-B232-5366B0D37991"
+    },
+    {
+      "class": "group",
+      "id": "4D925710-179C-4BA7-898A-30419F548548"
+    },
+    {
+      "class": "group",
+      "id": "14D5E025-31DC-4A8C-B7F6-32151001AAF9"
+    },
+    {
+      "class": "group",
+      "id": "1393235F-D96E-49E3-9DAB-78D287776E3D"
+    },
+    {
+      "class": "group",
+      "id": "2B60AD51-3D67-49E6-B017-AB6071EF3D3F"
+    },
+    {
+      "class": "group",
+      "id": "C798EC7E-C7DD-4BA3-AB1B-D928499E054C"
+    },
+    {
+      "class": "group",
+      "id": "04202B24-D707-4869-A444-5DD0F7E273F0"
+    },
+    {
+      "class": "group",
+      "id": "49A9B04E-AC3D-4D7F-B215-AD100A879DA9"
+    },
+    {
+      "class": "group",
+      "id": "7F57AA25-A8DE-49F6-9ED8-FD1F487994B1"
+    }
+  ],
+  "name": "Gutenberg/Insert/Block_Center",
+  "nameIsFixed": true,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "BF8BAC05-2F1E-4DB1-AA6D-A744A97269FA",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

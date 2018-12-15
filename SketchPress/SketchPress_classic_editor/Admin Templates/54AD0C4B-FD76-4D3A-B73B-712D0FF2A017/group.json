@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "booleanOperation": 0,
+  "clippingMaskMode": 0,
+  "do_objectID": "54AD0C4B-FD76-4D3A-B73B-712D0FF2A017",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 87,
+    "width": 966,
+    "x": 5251.13107634933,
+    "y": -1960
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "D878537B-1E71-4D4F-BA8B-963DFF02AC58"
+    },
+    {
+      "class": "rectangle",
+      "id": "5116B343-79C5-49B2-8F68-30A2ED0FA1A5"
+    },
+    {
+      "class": "text",
+      "id": "98B130ED-8349-4C46-8058-1D3E497F9363"
+    },
+    {
+      "class": "text",
+      "id": "A9D75842-0639-461C-BEDA-3AC12EC56A75"
+    }
+  ],
+  "name": "Posts: Add Media",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B5C17C69-9E83-47DE-9C7A-64A0F52049AD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7AFF2FAC-CFB8-4A9D-BACB-2E84567FAD78",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E916C397-0B14-43A8-AB39-1A9522D1D48D",
+    "height": 28,
+    "width": 130,
+    "x": 119.7880383895126,
+    "y": 0.8360892878043842
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "core/input/select",
+  "nameIsFixed": true,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "66F9F456-A3B7-4B5E-BAF9-250151BB97E5",
+      "overrideName": "CCB87EBE-1BDE-42A5-9D2F-BE5F44B9B2B8_stringValue",
+      "value": "Ada Lovelace"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E368558C-F9F3-4479-9575-D7419D82A100",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "1E61AF63-FCCF-46C0-974B-76D6662EF6F8",
+  "verticalSpacing": 0
+}

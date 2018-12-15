@@ -1,0 +1,61 @@
+{
+  "_class": "group",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "1178AE10-F397-4832-89E9-8503976F6734",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "D3BC5101-AF37-4DEC-B547-2AF85AD60C17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8C22AC80-6AE2-4DC5-9BC3-B30C42237320",
+    "height": 21,
+    "width": 101,
+    "x": 487,
+    "y": 95
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "4A1859D6-45C1-4951-8E45-E455B08822F8"
+    },
+    {
+      "class": "shapePath",
+      "id": "ACEA3894-098F-4524-8E0A-D6F9EB34CC96"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "EB1844E0-4886-4A9B-A9C1-5D6B02157197"
+    }
+  ],
+  "name": "Insert Prompt Icons",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "CA36D02E-88DD-4D9C-895A-475DE09E7E71",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  }
+}
