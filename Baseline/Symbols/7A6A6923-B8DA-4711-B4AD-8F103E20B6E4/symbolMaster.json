@@ -9,7 +9,7 @@
     "red": 1
   },
   "booleanOperation": 0,
-  "changeIdentifier": 3692,
+  "changeIdentifier": 3694,
   "clippingMaskMode": 0,
   "do_objectID": "7A6A6923-B8DA-4711-B4AD-8F103E20B6E4",
   "exportOptions": {
@@ -98,6 +98,12 @@
     "windingRule": 1
   },
   "symbolID": "9EE3A46C-455E-4D68-BE9E-4E353ECDEC33",
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  },
   "verticalRulerData": {
     "_class": "rulerData",
     "base": 0,

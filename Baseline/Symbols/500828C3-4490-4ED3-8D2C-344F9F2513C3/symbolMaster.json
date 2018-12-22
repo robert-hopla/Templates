@@ -9,7 +9,7 @@
     "red": 0
   },
   "booleanOperation": 0,
-  "changeIdentifier": 16195,
+  "changeIdentifier": 16196,
   "clippingMaskMode": 0,
   "do_objectID": "500828C3-4490-4ED3-8D2C-344F9F2513C3",
   "exportOptions": {
@@ -125,6 +125,10 @@
   },
   "symbolID": "E4948A21-C4CB-41CC-B4F5-0BD007E142E6",
   "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    },
     "com.google.ux.material.spec_tools": {
       "cornerSizesDp": [
         20,
